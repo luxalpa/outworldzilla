@@ -1,0 +1,34 @@
+@import 'common';
+
+.graph {
+  $line-color: #0e9595;
+  display: block;
+  vertical-align: top;
+
+  text {
+    fill: #8ab7cb;
+    font-size: 12px;
+  }
+
+  .line {
+    stroke: $line-color;
+    stroke-width: 3px;
+  }
+
+  circle {
+    fill: $line-color;
+    r: 4px;
+  }
+
+  .grid {
+    stroke: #374952;
+  }
+}
+
+.not-enough-data {
+  margin: 2px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Courier New", monospace;
+}

@@ -1,0 +1,82 @@
+@import 'common';
+
+.dropdown-container {
+  position: relative;
+  z-index: auto;
+  //margin: 5px;
+  display: inline-block;
+
+  .dropdown-display {
+    @extend .box;
+
+    display: inline-block;
+    background-color: $table-color-odd;
+
+    &:after {
+      @extend .fa;
+      content:"\f078"; // fa-chevron-down
+      position: absolute;
+      right: 10px;
+      top: 9px;
+      font-size: 13px;
+      color: $text-color;
+    }
+  }
+
+  &.show.dropdown-display {
+    visibility: hidden;
+  }
+
+  .dropdown-display, .dropdown-list > div {
+    cursor: pointer;
+    width: 120px;
+    padding: 8px;
+    font-size: 12px;
+    //font-weight: bold;
+    &:hover {
+      background-color: $hover-bright !important;
+    }
+  }
+
+  .selected {
+    position: relative;
+  }
+  .selected::after {
+    @extend .fa;
+    content: "\f069"; //fa-asterisk
+    //@extend .fa-asterisk:before;
+    position: absolute;
+    right: 10px;
+    top: 9px;
+    font-size: 13px;
+    color: $text-color;
+  }
+
+  .dropdown-display, .selected {
+    font-weight: bold;
+  }
+
+  .dropdown-list {
+    @extend .box;
+    padding: 0;
+    position: absolute;
+    z-index: 1;
+    background-color: $boxbgcolor;
+    display: none;
+    top: 0;
+    border: 1px solid $bordercolorInner;
+    & > div {
+      &:nth-child(odd) {
+        background-color: $table-color-odd;
+      }
+      &:nth-child(even) {
+        background-color: $table-color-even;
+      }
+    }
+  }
+  &.show {
+    .dropdown-list {
+      display: block;
+    }
+  }
+}

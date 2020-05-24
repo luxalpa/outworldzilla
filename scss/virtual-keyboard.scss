@@ -1,0 +1,279 @@
+@import 'common';
+
+$key-size: 40px;
+$key-margin: 3px;
+$kb-offset-x: 0px;
+$kb-offset-y: 0px;
+$kb-margin: 20px;
+
+.keyboard-alert-box {
+  width: 500px;
+  margin: 80px auto;
+  padding: 10px 20px;
+}
+
+.modifier-mode {
+  .key {
+    &:hover {
+      background-color: #ae0000 !important;
+    }
+  }
+  * {
+    border-color: red !important;
+  }
+}
+
+.key {
+  width: $key-size;
+  height: $key-size;
+  display: inline-block;
+  font-style: normal;
+  text-decoration: none;
+  margin-right: $key-margin;
+  background-color: $element-color;
+  vertical-align: top;
+  cursor: pointer;
+  @include box-sizing(border-box);
+
+  font-size: $key-size / 30 * 8;
+
+  & > div {
+    padding: $key-size / 30 * 4 $key-size / 30 * 6;
+    @include box-sizing(border-box);
+    width: 100%;
+    height: 100%;
+  }
+
+  &:last-child {
+    margin-right: 0;
+  }
+
+  &:hover {
+    background-color: $hover-bright;
+  }
+
+  &.disabled {
+    color: $insignificant-color;
+    &:hover {
+      background-color: $element-color !important;
+    }
+  }
+
+  &.is-mod-key {
+    background-color: #4b3425;
+    &:hover {
+      background-color: #885e41;
+    }
+    &.selected {
+      background-color: #885e41;
+    }
+  }
+
+  &.is-in-use {
+    background-color: $hover-bright;
+    &:hover {
+      background-color: #948c7d;
+    }
+  }
+}
+
+.keyboard-wrapper {
+  width: 980px;
+  margin: 50px auto;
+  padding: 20px 20px;
+}
+
+.keyboard {
+  height: 270px;
+  position: relative;
+
+  .key-row {
+    margin-bottom: $key-margin;
+    display: inline-block;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+    white-space: nowrap;
+
+    .kbackspace {
+      width: $key-size * 2 + $key-margin;
+    }
+    .ktab, .kfwdslash {
+      width: $key-size * 1.5 + $key-margin / 2;
+    }
+    .kcaps {
+      width: $key-size * 1.75 + $key-margin;
+    }
+    .kenter {
+      width: $key-size * 2.25 + $key-margin;
+    }
+    .kspace {
+      width: $key-size * 4.5 + $key-margin * 3;
+    }
+    .klshift {
+      width: $key-size * 2.25 + $key-margin;
+    }
+    .krshift {
+      width: $key-size * 2.75 + $key-margin * 2;
+    }
+  }
+
+  .kbMain {
+    @extend .box;
+    padding: 0;
+    width: 15 * $key-size + 14 * $key-margin;
+    position: absolute;
+    top: $kb-offset-y + $key-size +  $kb-margin;
+    left: $kb-offset-x;
+    display: block;
+  }
+
+  .kbArrows-wrapper {
+    padding: 0;
+    position: absolute;
+    top: $kb-offset-y + $key-size +  $kb-margin + 3 * $key-size + 3 * $key-margin;
+    left: $kb-offset-x + 15 * $key-size + 14 * $key-margin + $kb-margin;
+  }
+
+  .kbArrows-up-wrapper {
+    position: absolute;
+    left: $key-size + $key-margin;
+    width: $key-size;
+    height: $key-size + $key-margin;
+
+    &:before {
+      @extend .box::before;
+      top: -1px;
+      left: -1px;
+      right: -1px;
+      bottom: -1px;
+      z-index: 0;
+    }
+  }
+
+  .kbArrows-up {
+    @extend .box;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    z-index: 1;
+    border-bottom-width: 0;
+    &:before {
+      display: none;
+    }
+  }
+
+  .kbArrows-down {
+    @extend .box;
+    position: absolute;
+    top: $key-size + $key-margin;
+    padding: 0;
+  }
+
+  .kbInsert {
+    @extend .box;
+    padding: 0;
+    position: absolute;
+    top: $kb-offset-y + $key-size + $kb-margin;
+    left: $kb-offset-x + 15 * $key-size + 14 * $key-margin + $kb-margin;
+  }
+
+  .kbEscape {
+    @extend .box;
+    padding: 0;
+    position: absolute;
+    top: $kb-offset-y;
+    left: $kb-offset-x;
+  }
+
+  .kbF1, .kbF5, .kbF9, .kbF13, .kbF17, .kbF21 {
+    @extend .box;
+    padding: 0;
+  }
+
+  .kbF1, .kbF5, .kbF9, .kbPrint {
+    position: absolute;
+    top: $kb-offset-y;
+  }
+
+  $fkeys-start: $kb-offset-x + (15 * $key-size + 14 * $key-margin) - (12 * $key-size + 9 * $key-margin + 2 * $kb-margin);
+
+  .kbF1, .kbF13 {
+    left: $fkeys-start;
+  }
+
+  .kbF5, .kbF17 {
+    left: $fkeys-start + $key-size * 4 + $key-margin * 3 + $kb-margin;
+  }
+
+  .kbF9, .kbF21 {
+    left: $fkeys-start + $key-size * 8 + $key-margin * 6 + 2 * $kb-margin;
+  }
+
+  .kbPrint {
+    @extend .box;
+    padding: 0;
+    left: $kb-offset-x + $key-size * 15 + $key-margin * 14 + $kb-margin;
+  }
+
+  .kbnumpad {
+    @extend .box;
+    padding: 0;
+    position: absolute;
+    left: $kb-offset-x + $key-size * 18 + $key-margin * 16 + 2 * $kb-margin;
+    top: $kb-offset-y + $key-size +  $kb-margin;
+  }
+
+  .knumplus {
+    @extend .key;
+    position: absolute;
+    left: $key-size * 3 + $key-margin * 3;
+    top: $key-size + $key-margin;
+    height: $key-size * 2 + $key-margin;
+  }
+
+  .knumenter {
+    @extend .key;
+    position: absolute;
+    left: $key-size * 3 + $key-margin * 3;
+    top: $key-size * 3 + $key-margin * 3;
+    height: $key-size * 2 + $key-margin;
+  }
+}
+
+.mod-keys-box {
+  display: inline-block;
+  padding: 0;
+  white-space: nowrap;
+
+  .mod-key, .add-button {
+    display: inline-block;
+    background-color: $element-color;
+    padding: 8px 30px;
+    font-size: 11px;
+  }
+
+  .mod-key {
+    cursor: default;
+    margin-right: 3px;
+    white-space: nowrap;
+    span {
+      cursor: pointer;
+      display: inline;
+      padding: 8px 10px;
+      margin-left: 0px;
+      margin-right: -10px;
+      &:hover {
+        color: red;
+      }
+    }
+  }
+
+  .add-button {
+    cursor: pointer;
+    &:hover {
+      background-color: $hover-bright;
+    }
+  }
+}

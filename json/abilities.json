@@ -1,0 +1,9462 @@
+{
+    "abilities": [
+        {
+            "cd": [
+                12,
+                10,
+                8,
+                6
+            ],
+            "id": 5586,
+            "mana": [
+                100,
+                105,
+                110,
+                115
+            ],
+            "range": [
+                500
+            ],
+            "text": "Aphotic Shield"
+        },
+        {
+            "cd": [
+                60,
+                50,
+                40
+            ],
+            "id": 5588,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Borrowed Time"
+        },
+        {
+            "cd": [
+                "4.5"
+            ],
+            "id": 5585,
+            "mana": [
+                50,
+                60,
+                70,
+                80
+            ],
+            "range": [
+                800
+            ],
+            "text": "Mist Coil"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5587,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Curse of Avernus"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5615,
+            "mana": [
+                0
+            ],
+            "range": [
+                900
+            ],
+            "text": "Atrophy Aura"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5617,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Cancel Dark Rift"
+        },
+        {
+            "cd": [
+                130,
+                120,
+                110
+            ],
+            "id": 5616,
+            "mana": [
+                75,
+                150,
+                225
+            ],
+            "range": [
+                0
+            ],
+            "text": "Dark Rift"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 5613,
+            "mana": [
+                100,
+                110,
+                120,
+                130
+            ],
+            "range": [
+                750
+            ],
+            "text": "Firestorm"
+        },
+        {
+            "cd": [
+                32,
+                28,
+                24,
+                20
+            ],
+            "id": 5614,
+            "mana": [
+                100,
+                115,
+                130,
+                145
+            ],
+            "range": [
+                750
+            ],
+            "text": "Pit of Malice"
+        },
+        {
+            "cd": [
+                22
+            ],
+            "id": 5365,
+            "mana": [
+                130,
+                140,
+                150,
+                160
+            ],
+            "range": [
+                900
+            ],
+            "text": "Acid Spray"
+        },
+        {
+            "cd": [
+                45
+            ],
+            "id": 5369,
+            "mana": [
+                50,
+                100,
+                150
+            ],
+            "range": [
+                0
+            ],
+            "text": "Chemical Rage"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5368,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Greevil's Greed"
+        },
+        {
+            "cd": [
+                16
+            ],
+            "id": 5366,
+            "mana": [
+                120
+            ],
+            "range": [
+                775
+            ],
+            "text": "Unstable Concoction"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5367,
+            "mana": [
+                0
+            ],
+            "range": [
+                775
+            ],
+            "text": "Unstable Concoction Throw"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5309,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Packleader's Aura"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5308,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Critical Strike"
+        },
+        {
+            "cd": [
+                50,
+                42,
+                34,
+                26
+            ],
+            "id": 5347,
+            "mana": [
+                110,
+                120,
+                130,
+                140
+            ],
+            "range": [
+                800
+            ],
+            "text": "Chilling Touch"
+        },
+        {
+            "cd": [
+                13,
+                11,
+                9,
+                7
+            ],
+            "id": 5345,
+            "mana": [
+                150
+            ],
+            "range": [
+                700,
+                800,
+                900,
+                1000
+            ],
+            "text": "Cold Feet"
+        },
+        {
+            "cd": [
+                40
+            ],
+            "id": 5348,
+            "mana": [
+                100,
+                125,
+                150
+            ],
+            "range": [
+                0
+            ],
+            "text": "Ice Blast"
+        },
+        {
+            "cd": [
+                1
+            ],
+            "id": 5349,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Release"
+        },
+        {
+            "cd": [
+                4
+            ],
+            "id": 5346,
+            "mana": [
+                80,
+                90,
+                100,
+                110
+            ],
+            "range": [
+                1500
+            ],
+            "text": "Ice Vortex"
+        },
+        {
+            "cd": [
+                12,
+                9,
+                7,
+                5
+            ],
+            "id": 5004,
+            "mana": [
+                60
+            ],
+            "range": [
+                0
+            ],
+            "text": "Blink"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5003,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Mana Break"
+        },
+        {
+            "cd": [
+                70
+            ],
+            "id": 5006,
+            "mana": [
+                125,
+                200,
+                275
+            ],
+            "range": [
+                600
+            ],
+            "text": "Mana Void"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5005,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Spell Shield"
+        },
+        {
+            "cd": [
+                18
+            ],
+            "id": 5677,
+            "mana": [
+                75
+            ],
+            "range": [
+                500,
+                600,
+                700,
+                800
+            ],
+            "text": "Flux"
+        },
+        {
+            "cd": [
+                35,
+                30,
+                25,
+                20
+            ],
+            "id": 5678,
+            "mana": [
+                110
+            ],
+            "range": [
+                900
+            ],
+            "text": "Magnetic Field"
+        },
+        {
+            "cd": [
+                4
+            ],
+            "id": 5679,
+            "mana": [
+                80
+            ],
+            "range": [
+                2000
+            ],
+            "text": "Spark Wraith"
+        },
+        {
+            "cd": [
+                60,
+                50,
+                40
+            ],
+            "id": 5683,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Tempest Double"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5002,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Attribute Bonus"
+        },
+        {
+            "cd": [
+                20,
+                15,
+                10,
+                5
+            ],
+            "id": 5008,
+            "mana": [
+                75
+            ],
+            "range": [
+                750
+            ],
+            "text": "Battle Hunger"
+        },
+        {
+            "cd": [
+                16,
+                14,
+                12,
+                10
+            ],
+            "id": 5007,
+            "mana": [
+                80,
+                90,
+                100,
+                110
+            ],
+            "range": [
+                0
+            ],
+            "text": "Berserker's Call"
+        },
+        {
+            "cd": [
+                "0.45",
+                "0.4",
+                "0.35",
+                "0.3"
+            ],
+            "id": 5009,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Counter Helix"
+        },
+        {
+            "cd": [
+                75,
+                65,
+                55
+            ],
+            "id": 5010,
+            "mana": [
+                60,
+                120,
+                180
+            ],
+            "range": [
+                150
+            ],
+            "text": "Culling Blade"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5350,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Backdoor Protection"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5351,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Backdoor Protection"
+        },
+        {
+            "cd": [
+                14,
+                13,
+                12,
+                11
+            ],
+            "id": 5011,
+            "mana": [
+                70,
+                100,
+                130,
+                160
+            ],
+            "range": [
+                600
+            ],
+            "text": "Brain Sap"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5012,
+            "mana": [
+                95
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Enfeeble"
+        },
+        {
+            "cd": [
+                100
+            ],
+            "id": 5013,
+            "mana": [
+                200,
+                300,
+                400
+            ],
+            "range": [
+                625
+            ],
+            "text": "Fiend's Grip"
+        },
+        {
+            "cd": [
+                22,
+                19,
+                16,
+                13
+            ],
+            "id": 5014,
+            "mana": [
+                165
+            ],
+            "range": [
+                500,
+                550,
+                600,
+                650
+            ],
+            "text": "Nightmare"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5523,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Nightmare End"
+        },
+        {
+            "cd": [
+                40
+            ],
+            "id": 5322,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Firefly"
+        },
+        {
+            "cd": [
+                17
+            ],
+            "id": 5321,
+            "mana": [
+                110,
+                120,
+                130,
+                140
+            ],
+            "range": [
+                1500
+            ],
+            "text": "Flamebreak"
+        },
+        {
+            "cd": [
+                90,
+                75,
+                60
+            ],
+            "id": 5323,
+            "mana": [
+                225
+            ],
+            "range": [
+                100
+            ],
+            "text": "Flaming Lasso"
+        },
+        {
+            "cd": [
+                3
+            ],
+            "id": 5320,
+            "mana": [
+                20
+            ],
+            "range": [
+                700
+            ],
+            "text": "Sticky Napalm"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5171,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Poison"
+        },
+        {
+            "cd": [
+                42,
+                38,
+                34,
+                30
+            ],
+            "id": 5169,
+            "mana": [
+                25
+            ],
+            "range": [
+                0
+            ],
+            "text": "Call of the Wild: Hawk"
+        },
+        {
+            "cd": [
+                42,
+                38,
+                34,
+                30
+            ],
+            "id": 5580,
+            "mana": [
+                25
+            ],
+            "range": [
+                0
+            ],
+            "text": "Call of the Wild: Boar"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5352,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Poison"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5170,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Invisibility"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5172,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Inner Beast"
+        },
+        {
+            "cd": [
+                80,
+                75,
+                70
+            ],
+            "id": 5177,
+            "mana": [
+                150,
+                175,
+                200
+            ],
+            "range": [
+                600
+            ],
+            "text": "Primal Roar"
+        },
+        {
+            "cd": [
+                13
+            ],
+            "id": 5168,
+            "mana": [
+                120
+            ],
+            "range": [
+                1300
+            ],
+            "text": "Wild Axes"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5333,
+            "mana": [
+                50
+            ],
+            "range": [
+                900
+            ],
+            "text": "Frenzy"
+        },
+        {
+            "cd": [
+                6
+            ],
+            "id": 5332,
+            "mana": [
+                90
+            ],
+            "range": [
+                0
+            ],
+            "text": "Slam"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5682,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "War Drums Aura"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5681,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Dragonhide Aura"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5689,
+            "mana": [
+                100
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Fireball"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5324,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Splash Attack"
+        },
+        {
+            "cd": [
+                25,
+                21,
+                17,
+                13
+            ],
+            "id": 5016,
+            "mana": [
+                100
+            ],
+            "range": [
+                1500
+            ],
+            "text": "Blood Rite"
+        },
+        {
+            "cd": [
+                12,
+                10,
+                8,
+                6
+            ],
+            "id": 5015,
+            "mana": [
+                0
+            ],
+            "range": [
+                800
+            ],
+            "text": "Bloodrage"
+        },
+        {
+            "cd": [
+                60
+            ],
+            "id": 5018,
+            "mana": [
+                150,
+                200,
+                250
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Rupture"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5017,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Thirst"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5327,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Guardian Aura"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5326,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Evasion"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5325,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Evasion"
+        },
+        {
+            "cd": [
+                12,
+                10,
+                8,
+                6
+            ],
+            "id": 5286,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Jinada"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5285,
+            "mana": [
+                120,
+                130,
+                140,
+                150
+            ],
+            "range": [
+                400
+            ],
+            "text": "Shuriken Toss"
+        },
+        {
+            "cd": [
+                4
+            ],
+            "id": 5288,
+            "mana": [
+                65
+            ],
+            "range": [
+                1200
+            ],
+            "text": "Track"
+        },
+        {
+            "cd": [
+                15
+            ],
+            "id": 5287,
+            "mana": [
+                65
+            ],
+            "range": [
+                0
+            ],
+            "text": "Shadow Walk"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5402,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Drunken Brawler"
+        },
+        {
+            "cd": [
+                8,
+                7,
+                6,
+                5
+            ],
+            "id": 5401,
+            "mana": [
+                25
+            ],
+            "range": [
+                850
+            ],
+            "text": "Drunken Haze"
+        },
+        {
+            "cd": [
+                5
+            ],
+            "id": 5404,
+            "mana": [
+                0
+            ],
+            "range": [
+                800
+            ],
+            "text": "Hurl Boulder"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5406,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Demolish"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5405,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Spell Immunity"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5411,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Permanent Immolation"
+        },
+        {
+            "cd": [
+                140,
+                120,
+                100
+            ],
+            "id": 5403,
+            "mana": [
+                125,
+                150,
+                175
+            ],
+            "range": [
+                0
+            ],
+            "text": "Primal Split"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5409,
+            "mana": [
+                150
+            ],
+            "range": [
+                600
+            ],
+            "text": "Cyclone"
+        },
+        {
+            "cd": [
+                4
+            ],
+            "id": 5408,
+            "mana": [
+                75
+            ],
+            "range": [
+                500
+            ],
+            "text": "Dispel Magic"
+        },
+        {
+            "cd": [
+                5
+            ],
+            "id": 5410,
+            "mana": [
+                75
+            ],
+            "range": [
+                0
+            ],
+            "text": "Wind Walk"
+        },
+        {
+            "cd": [
+                13
+            ],
+            "id": 5400,
+            "mana": [
+                90,
+                105,
+                130,
+                150
+            ],
+            "range": [
+                0
+            ],
+            "text": "Thunder Clap"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5550,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Bristleback"
+        },
+        {
+            "cd": [
+                3
+            ],
+            "id": 5549,
+            "mana": [
+                35
+            ],
+            "range": [
+                625
+            ],
+            "text": "Quill Spray"
+        },
+        {
+            "cd": [
+                "1.5"
+            ],
+            "id": 5548,
+            "mana": [
+                25
+            ],
+            "range": [
+                600
+            ],
+            "text": "Viscous Nasal Goo"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5551,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Warpath"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5281,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Incapacitating Bite"
+        },
+        {
+            "cd": [
+                45
+            ],
+            "id": 5282,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Insatiable Hunger"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5284,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Poison Sting"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5283,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Spawn Spiderite"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5279,
+            "mana": [
+                120
+            ],
+            "range": [
+                700
+            ],
+            "text": "Spawn Spiderlings"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5280,
+            "mana": [
+                50
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Spin Web"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5643,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Destroy Spin Web"
+        },
+        {
+            "cd": [
+                5
+            ],
+            "id": 5515,
+            "mana": [
+                0
+            ],
+            "range": [
+                150
+            ],
+            "text": "Double Edge"
+        },
+        {
+            "cd": [
+                13
+            ],
+            "id": 5514,
+            "mana": [
+                130
+            ],
+            "range": [
+                0
+            ],
+            "text": "Hoof Stomp"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5294,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Swiftness Aura"
+        },
+        {
+            "cd": [
+                20
+            ],
+            "id": 5295,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "War Stomp"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5516,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Return"
+        },
+        {
+            "cd": [
+                90,
+                75,
+                60
+            ],
+            "id": 5517,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Stampede"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5426,
+            "mana": [
+                140
+            ],
+            "range": [
+                500
+            ],
+            "text": "Chaos Bolt"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5428,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Chaos Strike"
+        },
+        {
+            "cd": [
+                130
+            ],
+            "id": 5429,
+            "mana": [
+                125,
+                200,
+                275
+            ],
+            "range": [
+                1200
+            ],
+            "text": "Phantasm"
+        },
+        {
+            "cd": [
+                24,
+                18,
+                12,
+                6
+            ],
+            "id": 5427,
+            "mana": [
+                50
+            ],
+            "range": [
+                550,
+                600,
+                650,
+                700
+            ],
+            "text": "Reality Rift"
+        },
+        {
+            "cd": [
+                160,
+                140,
+                120
+            ],
+            "id": 5331,
+            "mana": [
+                200,
+                300,
+                400
+            ],
+            "range": [
+                0
+            ],
+            "text": "Hand of God"
+        },
+        {
+            "cd": [
+                30,
+                26,
+                22,
+                18
+            ],
+            "id": 5330,
+            "mana": [
+                100
+            ],
+            "range": [
+                900
+            ],
+            "text": "Holy Persuasion"
+        },
+        {
+            "cd": [
+                14,
+                13,
+                12,
+                11
+            ],
+            "id": 5328,
+            "mana": [
+                70
+            ],
+            "range": [
+                800
+            ],
+            "text": "Penitence"
+        },
+        {
+            "cd": [
+                16
+            ],
+            "id": 5329,
+            "mana": [
+                90,
+                100,
+                110,
+                120
+            ],
+            "range": [
+                600
+            ],
+            "text": "Test of Faith"
+        },
+        {
+            "cd": [
+                24
+            ],
+            "id": 5522,
+            "mana": [
+                200
+            ],
+            "range": [
+                600
+            ],
+            "text": "Test of Faith"
+        },
+        {
+            "cd": [
+                45,
+                30,
+                15
+            ],
+            "id": 5262,
+            "mana": [
+                100
+            ],
+            "range": [
+                400
+            ],
+            "text": "Death Pact"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5260,
+            "mana": [
+                10
+            ],
+            "range": [
+                640
+            ],
+            "text": "Searing Arrows"
+        },
+        {
+            "cd": [
+                40,
+                35,
+                30,
+                25
+            ],
+            "id": 5259,
+            "mana": [
+                90
+            ],
+            "range": [
+                0
+            ],
+            "text": "Strafe"
+        },
+        {
+            "cd": [
+                20,
+                19,
+                18,
+                17
+            ],
+            "id": 5261,
+            "mana": [
+                75
+            ],
+            "range": [
+                0
+            ],
+            "text": "Skeleton Walk"
+        },
+        {
+            "cd": [
+                90
+            ],
+            "id": 5210,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Speed Burst"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5492,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Go To Secret Shop"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5207,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Return Items"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5205,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Return to Base"
+        },
+        {
+            "cd": [
+                20
+            ],
+            "id": 5209,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Shield"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5208,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Retrieve Items"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5206,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Transfer Items"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5128,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Arcane Aura"
+        },
+        {
+            "cd": [
+                12,
+                11,
+                10,
+                9
+            ],
+            "id": 5126,
+            "mana": [
+                100,
+                120,
+                140,
+                160
+            ],
+            "range": [
+                700
+            ],
+            "text": "Crystal Nova"
+        },
+        {
+            "cd": [
+                90
+            ],
+            "id": 5129,
+            "mana": [
+                200,
+                400,
+                600
+            ],
+            "range": [
+                0
+            ],
+            "text": "Freezing Field"
+        },
+        {
+            "cd": [
+                9,
+                8,
+                7,
+                6
+            ],
+            "id": 5127,
+            "mana": [
+                115,
+                125,
+                140,
+                150
+            ],
+            "range": [
+                525
+            ],
+            "text": "Frostbite"
+        },
+        {
+            "cd": [
+                9
+            ],
+            "id": 5256,
+            "mana": [
+                100,
+                110,
+                120,
+                130
+            ],
+            "range": [
+                600
+            ],
+            "text": "Ion Shell"
+        },
+        {
+            "cd": [
+                12,
+                11,
+                10,
+                9
+            ],
+            "id": 5257,
+            "mana": [
+                50
+            ],
+            "range": [
+                600
+            ],
+            "text": "Surge"
+        },
+        {
+            "cd": [
+                28
+            ],
+            "id": 5255,
+            "mana": [
+                100,
+                130,
+                160,
+                190
+            ],
+            "range": [
+                500
+            ],
+            "text": "Vacuum"
+        },
+        {
+            "cd": [
+                100
+            ],
+            "id": 5258,
+            "mana": [
+                125,
+                250,
+                375
+            ],
+            "range": [
+                500,
+                900,
+                1300
+            ],
+            "text": "Wall of Replica"
+        },
+        {
+            "cd": [
+                20
+            ],
+            "id": 5305,
+            "mana": [
+                150
+            ],
+            "range": [
+                550
+            ],
+            "text": "Ensnare"
+        },
+        {
+            "cd": [
+                25
+            ],
+            "id": 5306,
+            "mana": [
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Raise Dead"
+        },
+        {
+            "cd": [
+                15,
+                13,
+                11,
+                7
+            ],
+            "id": 5233,
+            "mana": [
+                70
+            ],
+            "range": [
+                600,
+                650,
+                700,
+                750
+            ],
+            "text": "Poison Touch"
+        },
+        {
+            "cd": [
+                12,
+                10,
+                8,
+                6
+            ],
+            "id": 5235,
+            "mana": [
+                90,
+                100,
+                110,
+                120
+            ],
+            "range": [
+                900
+            ],
+            "text": "Shadow Wave"
+        },
+        {
+            "cd": [
+                60,
+                45,
+                30,
+                15
+            ],
+            "id": 5234,
+            "mana": [
+                150
+            ],
+            "range": [
+                550,
+                700,
+                850,
+                1000
+            ],
+            "text": "Shallow Grave"
+        },
+        {
+            "cd": [
+                40
+            ],
+            "id": 5236,
+            "mana": [
+                100
+            ],
+            "range": [
+                2000
+            ],
+            "text": "Weave"
+        },
+        {
+            "cd": [
+                8,
+                7,
+                6,
+                5
+            ],
+            "id": 5090,
+            "mana": [
+                105,
+                120,
+                140,
+                165
+            ],
+            "range": [
+                600
+            ],
+            "text": "Crypt Swarm"
+        },
+        {
+            "cd": [
+                145
+            ],
+            "id": 5093,
+            "mana": [
+                200,
+                300,
+                400
+            ],
+            "range": [
+                0
+            ],
+            "text": "Exorcism"
+        },
+        {
+            "cd": [
+                15,
+                14,
+                13,
+                12
+            ],
+            "id": 5091,
+            "mana": [
+                80
+            ],
+            "range": [
+                900
+            ],
+            "text": "Silence"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5685,
+            "mana": [
+                70,
+                65,
+                60,
+                55
+            ],
+            "range": [
+                500
+            ],
+            "text": "Spirit Siphon"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5092,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": ""
+        },
+        {
+            "cd": [
+                60,
+                46,
+                32,
+                18
+            ],
+            "id": 5459,
+            "mana": [
+                100
+            ],
+            "range": [
+                600,
+                1000,
+                1400,
+                1800
+            ],
+            "text": "Glimpse"
+        },
+        {
+            "cd": [
+                13,
+                12,
+                11,
+                10
+            ],
+            "id": 5460,
+            "mana": [
+                70
+            ],
+            "range": [
+                900
+            ],
+            "text": "Kinetic Field"
+        },
+        {
+            "cd": [
+                90,
+                80,
+                70
+            ],
+            "id": 5461,
+            "mana": [
+                125,
+                175,
+                225
+            ],
+            "range": [
+                800
+            ],
+            "text": "Static Storm"
+        },
+        {
+            "cd": [
+                12,
+                11,
+                10,
+                9
+            ],
+            "id": 5458,
+            "mana": [
+                130
+            ],
+            "range": [
+                800
+            ],
+            "text": "Thunder Strike"
+        },
+        {
+            "cd": [
+                70,
+                60,
+                50,
+                40
+            ],
+            "id": 5339,
+            "mana": [
+                60
+            ],
+            "range": [
+                300
+            ],
+            "text": "Devour"
+        },
+        {
+            "cd": [
+                145
+            ],
+            "id": 5342,
+            "mana": [
+                150,
+                200,
+                250
+            ],
+            "range": [
+                550
+            ],
+            "text": "Doom"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5343,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Devoured Ability"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5344,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Devoured Ability"
+        },
+        {
+            "cd": [
+                16,
+                12,
+                8,
+                4
+            ],
+            "id": 5341,
+            "mana": [
+                40
+            ],
+            "range": [
+                150
+            ],
+            "text": "Infernal Blade"
+        },
+        {
+            "cd": [
+                55
+            ],
+            "id": 5340,
+            "mana": [
+                60,
+                65,
+                70,
+                75
+            ],
+            "range": [
+                600
+            ],
+            "text": "Scorched Earth"
+        },
+        {
+            "cd": [
+                14,
+                13,
+                12,
+                11
+            ],
+            "id": 5226,
+            "mana": [
+                100,
+                110,
+                120,
+                130
+            ],
+            "range": [
+                500
+            ],
+            "text": "Breathe Fire"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5228,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Dragon Blood"
+        },
+        {
+            "cd": [
+                12,
+                11,
+                10,
+                9
+            ],
+            "id": 5227,
+            "mana": [
+                100
+            ],
+            "range": [
+                150
+            ],
+            "text": "Dragon Tail"
+        },
+        {
+            "cd": [
+                115
+            ],
+            "id": 5229,
+            "mana": [
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Elder Dragon Form"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5019,
+            "mana": [
+                12
+            ],
+            "range": [
+                625
+            ],
+            "text": "Frost Arrows"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5022,
+            "mana": [
+                0
+            ],
+            "range": [
+                400
+            ],
+            "text": "Marksmanship"
+        },
+        {
+            "cd": [
+                16,
+                15,
+                14,
+                13
+            ],
+            "id": 5020,
+            "mana": [
+                90
+            ],
+            "range": [
+                900
+            ],
+            "text": "Silence"
+        },
+        {
+            "cd": [
+                100
+            ],
+            "id": 5021,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Precision Aura"
+        },
+        {
+            "cd": [
+                16,
+                15,
+                14,
+                13
+            ],
+            "id": 5632,
+            "mana": [
+                90
+            ],
+            "range": [
+                900
+            ],
+            "text": "Gust"
+        },
+        {
+            "cd": [
+                22,
+                18,
+                14,
+                10
+            ],
+            "id": 5608,
+            "mana": [
+                100
+            ],
+            "range": [
+                150
+            ],
+            "text": "Boulder Smash"
+        },
+        {
+            "cd": [
+                13
+            ],
+            "id": 5610,
+            "mana": [
+                100
+            ],
+            "range": [
+                1100
+            ],
+            "text": "Geomagnetic Grip"
+        },
+        {
+            "cd": [
+                100,
+                90,
+                80
+            ],
+            "id": 5612,
+            "mana": [
+                100
+            ],
+            "range": [
+                300
+            ],
+            "text": "Magnetize"
+        },
+        {
+            "cd": [
+                45
+            ],
+            "id": 5648,
+            "mana": [
+                150
+            ],
+            "range": [
+                125
+            ],
+            "text": "Enchant Remnant"
+        },
+        {
+            "cd": [
+                16,
+                12,
+                8,
+                4
+            ],
+            "id": 5609,
+            "mana": [
+                50
+            ],
+            "range": [
+                3000
+            ],
+            "text": "Rolling Boulder"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5611,
+            "mana": [
+                0
+            ],
+            "range": [
+                1100
+            ],
+            "text": "Stone Remnant"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5025,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Aftershock"
+        },
+        {
+            "cd": [
+                150,
+                130,
+                110
+            ],
+            "id": 5026,
+            "mana": [
+                145,
+                205,
+                265
+            ],
+            "range": [
+                0
+            ],
+            "text": "Echo Slam"
+        },
+        {
+            "cd": [
+                5
+            ],
+            "id": 5024,
+            "mana": [
+                20,
+                30,
+                40,
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Enchant Totem"
+        },
+        {
+            "cd": [
+                15
+            ],
+            "id": 5023,
+            "mana": [
+                125,
+                140,
+                155,
+                170
+            ],
+            "range": [
+                1400
+            ],
+            "text": "Fissure"
+        },
+        {
+            "cd": [
+                16
+            ],
+            "id": 5591,
+            "mana": [
+                80,
+                90,
+                100,
+                110
+            ],
+            "range": [
+                1200
+            ],
+            "text": "Astral Spirit"
+        },
+        {
+            "cd": [
+                100
+            ],
+            "id": 5594,
+            "mana": [
+                125,
+                175,
+                225
+            ],
+            "range": [
+                2400
+            ],
+            "text": "Earth Splitter"
+        },
+        {
+            "cd": [
+                14,
+                13,
+                12,
+                11
+            ],
+            "id": 5589,
+            "mana": [
+                100
+            ],
+            "range": [
+                500
+            ],
+            "text": "Echo Stomp"
+        },
+        {
+            "cd": [
+                14,
+                13,
+                12,
+                11
+            ],
+            "id": 5590,
+            "mana": [
+                0
+            ],
+            "range": [
+                500
+            ],
+            "text": "Echo Stomp"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5593,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Natural Order"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5750,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Natural Order"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5592,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Return Astral Spirit"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5607,
+            "mana": [
+                150
+            ],
+            "range": [
+                99999
+            ],
+            "text": "Activate Fire Remnant"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5606,
+            "mana": [
+                0
+            ],
+            "range": [
+                1500
+            ],
+            "text": "Fire Remnant"
+        },
+        {
+            "cd": [
+                35
+            ],
+            "id": 5605,
+            "mana": [
+                80,
+                90,
+                100,
+                110
+            ],
+            "range": [
+                400
+            ],
+            "text": "Flame Guard"
+        },
+        {
+            "cd": [
+                14,
+                12,
+                10,
+                8
+            ],
+            "id": 5603,
+            "mana": [
+                110
+            ],
+            "range": [
+                400
+            ],
+            "text": "Searing Chains"
+        },
+        {
+            "cd": [
+                30,
+                22,
+                14,
+                6
+            ],
+            "id": 5604,
+            "mana": [
+                50
+            ],
+            "range": [
+                700
+            ],
+            "text": "Sleight of Fist"
+        },
+        {
+            "cd": [
+                30,
+                24,
+                18,
+                12
+            ],
+            "id": 5268,
+            "mana": [
+                65
+            ],
+            "range": [
+                700
+            ],
+            "text": "Enchant"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5270,
+            "mana": [
+                55,
+                60,
+                65
+            ],
+            "range": [
+                550
+            ],
+            "text": "Impetus"
+        },
+        {
+            "cd": [
+                45
+            ],
+            "id": 5269,
+            "mana": [
+                125,
+                140,
+                155,
+                170
+            ],
+            "range": [
+                0
+            ],
+            "text": "Nature's Attendants"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5267,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Untouchable"
+        },
+        {
+            "cd": [
+                200,
+                180,
+                160
+            ],
+            "id": 5149,
+            "mana": [
+                275,
+                325,
+                375
+            ],
+            "range": [
+                275
+            ],
+            "text": "Black Hole"
+        },
+        {
+            "cd": [
+                35
+            ],
+            "id": 5147,
+            "mana": [
+                170
+            ],
+            "range": [
+                700
+            ],
+            "text": "Demonic Conversion"
+        },
+        {
+            "cd": [
+                15
+            ],
+            "id": 5146,
+            "mana": [
+                110,
+                130,
+                150,
+                160
+            ],
+            "range": [
+                600
+            ],
+            "text": "Malefice"
+        },
+        {
+            "cd": [
+                35
+            ],
+            "id": 5148,
+            "mana": [
+                95,
+                110,
+                125,
+                140
+            ],
+            "range": [
+                700
+            ],
+            "text": "Midnight Pulse"
+        },
+        {
+            "cd": [
+                70
+            ],
+            "id": 5312,
+            "mana": [
+                200
+            ],
+            "range": [
+                500
+            ],
+            "text": "Tornado"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5313,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Toughness Aura"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5183,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": ""
+        },
+        {
+            "cd": [
+                140,
+                125,
+                110
+            ],
+            "id": 5185,
+            "mana": [
+                150,
+                225,
+                300
+            ],
+            "range": [
+                600
+            ],
+            "text": "Chronosphere"
+        },
+        {
+            "cd": [
+                40,
+                34,
+                28,
+                22
+            ],
+            "id": 5691,
+            "mana": [
+                75
+            ],
+            "range": [
+                0
+            ],
+            "text": "Time Dilation"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5184,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Time Lock"
+        },
+        {
+            "cd": [
+                24,
+                18,
+                12,
+                6
+            ],
+            "id": 5182,
+            "mana": [
+                40
+            ],
+            "range": [
+                0
+            ],
+            "text": "Time Walk"
+        },
+        {
+            "cd": [
+                300
+            ],
+            "id": 6226,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Sanctuary"
+        },
+        {
+            "cd": [
+                "0.5"
+            ],
+            "id": 5318,
+            "mana": [
+                5
+            ],
+            "range": [
+                350
+            ],
+            "text": "Heal"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5491,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Mana Aura"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5388,
+            "mana": [
+                40
+            ],
+            "range": [
+                0
+            ],
+            "text": "Melting Strike"
+        },
+        {
+            "cd": [
+                37
+            ],
+            "id": 5247,
+            "mana": [
+                160
+            ],
+            "range": [
+                750
+            ],
+            "text": "Nature's Call"
+        },
+        {
+            "cd": [
+                11,
+                10,
+                9,
+                8
+            ],
+            "id": 5245,
+            "mana": [
+                70,
+                90,
+                110,
+                130
+            ],
+            "range": [
+                625,
+                700,
+                775,
+                850
+            ],
+            "text": "Sprout"
+        },
+        {
+            "cd": [
+                50,
+                40,
+                30,
+                20
+            ],
+            "id": 5246,
+            "mana": [
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Teleportation"
+        },
+        {
+            "cd": [
+                90,
+                75,
+                60
+            ],
+            "id": 5248,
+            "mana": [
+                175,
+                225,
+                275
+            ],
+            "range": [
+                0
+            ],
+            "text": "Wrath of Nature"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5301,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Frost Attack"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5307,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Critical Strike"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5296,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Envenomed Weapon"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5680,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": ""
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5656,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Granite Aura"
+        },
+        {
+            "cd": [
+                40
+            ],
+            "id": 5569,
+            "mana": [
+                0
+            ],
+            "range": [
+                250
+            ],
+            "text": "Greevil Hole"
+        },
+        {
+            "cd": [
+                25
+            ],
+            "id": 5553,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Greevil Fury"
+        },
+        {
+            "cd": [
+                20
+            ],
+            "id": 5560,
+            "mana": [
+                0
+            ],
+            "range": [
+                600
+            ],
+            "text": "Greevilust"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5531,
+            "mana": [
+                0
+            ],
+            "range": [
+                700
+            ],
+            "text": "Degreevilfy"
+        },
+        {
+            "cd": [
+                30
+            ],
+            "id": 5558,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Greevil Slam"
+        },
+        {
+            "cd": [
+                20
+            ],
+            "id": 5552,
+            "mana": [
+                0
+            ],
+            "range": [
+                800
+            ],
+            "text": "Greevil Bonds"
+        },
+        {
+            "cd": [
+                40
+            ],
+            "id": 5562,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Greevil Golem"
+        },
+        {
+            "cd": [
+                13
+            ],
+            "id": 5563,
+            "mana": [
+                0
+            ],
+            "range": [
+                700,
+                900,
+                1100,
+                1300
+            ],
+            "text": "Greevil Hook"
+        },
+        {
+            "cd": [
+                20
+            ],
+            "id": 5547,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Greevice Wall"
+        },
+        {
+            "cd": [
+                30
+            ],
+            "id": 5535,
+            "mana": [
+                0
+            ],
+            "range": [
+                600
+            ],
+            "text": "Greevilaguna Blade"
+        },
+        {
+            "cd": [
+                16
+            ],
+            "id": 5557,
+            "mana": [
+                0
+            ],
+            "range": [
+                350
+            ],
+            "text": "Leech Greevil"
+        },
+        {
+            "cd": [
+                6
+            ],
+            "id": 5529,
+            "mana": [
+                0
+            ],
+            "range": [
+                500
+            ],
+            "text": "Greevil Missile"
+        },
+        {
+            "cd": [
+                30
+            ],
+            "id": 5533,
+            "mana": [
+                0
+            ],
+            "range": [
+                400
+            ],
+            "text": "Greevildict"
+        },
+        {
+            "cd": [
+                20
+            ],
+            "id": 5559,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Greevil's Attendants"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5554,
+            "mana": [
+                0
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Phantom Greevil Strike"
+        },
+        {
+            "cd": [
+                40
+            ],
+            "id": 5546,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Greevil Nova"
+        },
+        {
+            "cd": [
+                15
+            ],
+            "id": 5561,
+            "mana": [
+                0
+            ],
+            "range": [
+                400,
+                500,
+                600,
+                700
+            ],
+            "text": "Greevilication"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5564,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Greevil Rot"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5556,
+            "mana": [
+                0
+            ],
+            "range": [
+                900
+            ],
+            "text": "Greevil Wave"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5555,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Greevil Lock"
+        },
+        {
+            "cd": [
+                55,
+                50,
+                45
+            ],
+            "id": 5364,
+            "mana": [
+                125
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Call Down"
+        },
+        {
+            "cd": [
+                30
+            ],
+            "id": 5363,
+            "mana": [
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Flak Cannon"
+        },
+        {
+            "cd": [
+                20,
+                17,
+                14,
+                11
+            ],
+            "id": 5362,
+            "mana": [
+                120,
+                130,
+                140,
+                150
+            ],
+            "range": [
+                1050
+            ],
+            "text": "Homing Missile"
+        },
+        {
+            "cd": [
+                7,
+                "6.5",
+                6,
+                "5.5"
+            ],
+            "id": 5361,
+            "mana": [
+                90
+            ],
+            "range": [
+                0
+            ],
+            "text": "Rocket Barrage"
+        },
+        {
+            "cd": [
+                4
+            ],
+            "id": 5319,
+            "mana": [
+                50
+            ],
+            "range": [
+                900
+            ],
+            "text": "Chain Lightning"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5273,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Berserker's Blood"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5272,
+            "mana": [
+                0
+            ],
+            "range": [
+                450
+            ],
+            "text": "Burning Spear"
+        },
+        {
+            "cd": [
+                22,
+                18,
+                14,
+                10
+            ],
+            "id": 5271,
+            "mana": [
+                170
+            ],
+            "range": [
+                800
+            ],
+            "text": "Inner Vitality"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 5274,
+            "mana": [
+                0
+            ],
+            "range": [
+                550
+            ],
+            "text": "Life Break"
+        },
+        {
+            "cd": [
+                15
+            ],
+            "id": 5384,
+            "mana": [
+                45
+            ],
+            "range": [
+                650
+            ],
+            "text": "Alacrity"
+        },
+        {
+            "cd": [
+                55
+            ],
+            "id": 5385,
+            "mana": [
+                200
+            ],
+            "range": [
+                700
+            ],
+            "text": "Chaos Meteor"
+        },
+        {
+            "cd": [
+                20
+            ],
+            "id": 5376,
+            "mana": [
+                100
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Cold Snap"
+        },
+        {
+            "cd": [
+                40
+            ],
+            "id": 5390,
+            "mana": [
+                300
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Deafening Blast"
+        },
+        {
+            "cd": [
+                30
+            ],
+            "id": 5383,
+            "mana": [
+                125
+            ],
+            "range": [
+                950
+            ],
+            "text": "E.M.P."
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5373,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Invoked Spell"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5374,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Invoked Spell"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5372,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Exort"
+        },
+        {
+            "cd": [
+                30
+            ],
+            "id": 5387,
+            "mana": [
+                75
+            ],
+            "range": [
+                0
+            ],
+            "text": "Forge Spirit"
+        },
+        {
+            "cd": [
+                45
+            ],
+            "id": 5381,
+            "mana": [
+                200
+            ],
+            "range": [
+                0
+            ],
+            "text": "Ghost Walk"
+        },
+        {
+            "cd": [
+                25
+            ],
+            "id": 5389,
+            "mana": [
+                175
+            ],
+            "range": [
+                0
+            ],
+            "text": "Ice Wall"
+        },
+        {
+            "cd": [
+                6
+            ],
+            "id": 5375,
+            "mana": [
+                60
+            ],
+            "range": [
+                0
+            ],
+            "text": "Invoke"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5370,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Quas"
+        },
+        {
+            "cd": [
+                25
+            ],
+            "id": 5386,
+            "mana": [
+                175
+            ],
+            "range": [
+                0
+            ],
+            "text": "Sun Strike"
+        },
+        {
+            "cd": [
+                30
+            ],
+            "id": 5382,
+            "mana": [
+                150
+            ],
+            "range": [
+                2000
+            ],
+            "text": "Tornado"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5371,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Wex"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5297,
+            "mana": [
+                135,
+                140,
+                155,
+                170
+            ],
+            "range": [
+                750
+            ],
+            "text": "Dual Breath"
+        },
+        {
+            "cd": [
+                12,
+                11,
+                10,
+                9
+            ],
+            "id": 5298,
+            "mana": [
+                90
+            ],
+            "range": [
+                1200
+            ],
+            "text": "Ice Path"
+        },
+        {
+            "cd": [
+                20,
+                15,
+                10,
+                4
+            ],
+            "id": 5299,
+            "mana": [
+                0
+            ],
+            "range": [
+                600
+            ],
+            "text": "Liquid Fire"
+        },
+        {
+            "cd": [
+                60
+            ],
+            "id": 5300,
+            "mana": [
+                220,
+                330,
+                440
+            ],
+            "range": [
+                1400
+            ],
+            "text": "Macropyre"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5027,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Blade Dance"
+        },
+        {
+            "cd": [
+                42,
+                34,
+                26,
+                18
+            ],
+            "id": 5028,
+            "mana": [
+                120,
+                110,
+                100,
+                90
+            ],
+            "range": [
+                0
+            ],
+            "text": "Blade Fury"
+        },
+        {
+            "cd": [
+                60
+            ],
+            "id": 5029,
+            "mana": [
+                140
+            ],
+            "range": [
+                350
+            ],
+            "text": "Healing Ward"
+        },
+        {
+            "cd": [
+                130,
+                120,
+                110
+            ],
+            "id": 5030,
+            "mana": [
+                200,
+                275,
+                350
+            ],
+            "range": [
+                350
+            ],
+            "text": "Omnislash"
+        },
+        {
+            "cd": [
+                20,
+                16,
+                12
+            ],
+            "id": 5476,
+            "mana": [
+                50
+            ],
+            "range": [
+                900
+            ],
+            "text": "Blinding Light"
+        },
+        {
+            "cd": [
+                17,
+                16,
+                15,
+                14
+            ],
+            "id": 5473,
+            "mana": [
+                25,
+                35,
+                45,
+                55
+            ],
+            "range": [
+                900
+            ],
+            "text": "Chakra Magic"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5471,
+            "mana": [
+                150,
+                160,
+                170,
+                180
+            ],
+            "range": [
+                1800
+            ],
+            "text": "Illuminate"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5477,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Release Illuminate"
+        },
+        {
+            "cd": [
+                16,
+                14,
+                12,
+                10
+            ],
+            "id": 5472,
+            "mana": [
+                150
+            ],
+            "range": [
+                550,
+                700,
+                850,
+                1000
+            ],
+            "text": "Mana Leak"
+        },
+        {
+            "cd": [
+                15
+            ],
+            "id": 5475,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Recall"
+        },
+        {
+            "cd": [
+                80,
+                70,
+                60
+            ],
+            "id": 5474,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Spirit Form"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5479,
+            "mana": [
+                150,
+                160,
+                170,
+                180
+            ],
+            "range": [
+                1800
+            ],
+            "text": "Illuminate"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5503,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Release Illuminate"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5293,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Speed Aura"
+        },
+        {
+            "cd": [
+                60,
+                50,
+                40
+            ],
+            "id": 5035,
+            "mana": [
+                125,
+                175,
+                225
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Ghostship"
+        },
+        {
+            "cd": [
+                1
+            ],
+            "id": 5034,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Return"
+        },
+        {
+            "cd": [
+                13,
+                10,
+                7,
+                4
+            ],
+            "id": 5032,
+            "mana": [
+                0
+            ],
+            "range": [
+                150
+            ],
+            "text": "Tidebringer"
+        },
+        {
+            "cd": [
+                16,
+                14,
+                12,
+                10
+            ],
+            "id": 5031,
+            "mana": [
+                90,
+                100,
+                110,
+                120
+            ],
+            "range": [
+                1500
+            ],
+            "text": "Torrent"
+        },
+        {
+            "cd": [
+                26,
+                20,
+                14,
+                8
+            ],
+            "id": 5033,
+            "mana": [
+                50
+            ],
+            "range": [
+                400,
+                600,
+                800,
+                1000
+            ],
+            "text": "X Marks the Spot"
+        },
+        {
+            "cd": [
+                50
+            ],
+            "id": 5598,
+            "mana": [
+                75
+            ],
+            "range": [
+                150
+            ],
+            "text": "Duel"
+        },
+        {
+            "cd": [
+                "2.3",
+                "1.8",
+                "1.3",
+                "0.8"
+            ],
+            "id": 5597,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Moment of Courage"
+        },
+        {
+            "cd": [
+                15
+            ],
+            "id": 5595,
+            "mana": [
+                100
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Overwhelming Odds"
+        },
+        {
+            "cd": [
+                16,
+                15,
+                14,
+                13
+            ],
+            "id": 5596,
+            "mana": [
+                110
+            ],
+            "range": [
+                800
+            ],
+            "text": "Press The Attack"
+        },
+        {
+            "cd": [
+                22
+            ],
+            "id": 5242,
+            "mana": [
+                95,
+                120,
+                135,
+                155
+            ],
+            "range": [
+                0
+            ],
+            "text": "Diabolic Edict"
+        },
+        {
+            "cd": [
+                4
+            ],
+            "id": 5243,
+            "mana": [
+                90,
+                100,
+                110,
+                120
+            ],
+            "range": [
+                800
+            ],
+            "text": "Lightning Storm"
+        },
+        {
+            "cd": [
+                1
+            ],
+            "id": 5244,
+            "mana": [
+                70,
+                90,
+                110
+            ],
+            "range": [
+                0
+            ],
+            "text": "Pulse Nova"
+        },
+        {
+            "cd": [
+                9
+            ],
+            "id": 5241,
+            "mana": [
+                100,
+                125,
+                140,
+                160
+            ],
+            "range": [
+                750
+            ],
+            "text": "Split Earth"
+        },
+        {
+            "cd": [
+                120,
+                90,
+                60
+            ],
+            "id": 5137,
+            "mana": [
+                200,
+                325,
+                500
+            ],
+            "range": [
+                750
+            ],
+            "text": "Chain Frost"
+        },
+        {
+            "cd": [
+                60,
+                50,
+                40,
+                30
+            ],
+            "id": 5136,
+            "mana": [
+                25
+            ],
+            "range": [
+                400
+            ],
+            "text": "Sacrifice"
+        },
+        {
+            "cd": [
+                5
+            ],
+            "id": 5135,
+            "mana": [
+                50
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Ice Armor"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5134,
+            "mana": [
+                125,
+                150,
+                170,
+                190
+            ],
+            "range": [
+                600
+            ],
+            "text": "Frost Blast"
+        },
+        {
+            "cd": [
+                50
+            ],
+            "id": 5671,
+            "mana": [
+                50
+            ],
+            "range": [
+                150
+            ],
+            "text": "Assimilate"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5675,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Eject"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5253,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Consume"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5655,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Control"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5657,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": ""
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5658,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": ""
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5659,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": ""
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5660,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": ""
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5250,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Feast"
+        },
+        {
+            "cd": [
+                100,
+                75,
+                50
+            ],
+            "id": 5252,
+            "mana": [
+                50
+            ],
+            "range": [
+                150
+            ],
+            "text": "Infest"
+        },
+        {
+            "cd": [
+                24,
+                20,
+                16,
+                12
+            ],
+            "id": 5251,
+            "mana": [
+                110
+            ],
+            "range": [
+                200,
+                300,
+                400,
+                500
+            ],
+            "text": "Open Wounds"
+        },
+        {
+            "cd": [
+                16
+            ],
+            "id": 5249,
+            "mana": [
+                75
+            ],
+            "range": [
+                0
+            ],
+            "text": "Rage"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5040,
+            "mana": [
+                100,
+                115,
+                130,
+                145
+            ],
+            "range": [
+                1075
+            ],
+            "text": "Dragon Slave"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5042,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Fiery Soul"
+        },
+        {
+            "cd": [
+                70,
+                60,
+                50
+            ],
+            "id": 5043,
+            "mana": [
+                280,
+                420,
+                680
+            ],
+            "range": [
+                600
+            ],
+            "text": "Laguna Blade"
+        },
+        {
+            "cd": [
+                7
+            ],
+            "id": 5041,
+            "mana": [
+                100,
+                110,
+                120,
+                130
+            ],
+            "range": [
+                625
+            ],
+            "text": "Light Strike Array"
+        },
+        {
+            "cd": [
+                160,
+                100,
+                40
+            ],
+            "id": 5047,
+            "mana": [
+                200,
+                420,
+                650
+            ],
+            "range": [
+                900
+            ],
+            "text": "Finger of Death"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 5044,
+            "mana": [
+                100,
+                120,
+                140,
+                160
+            ],
+            "range": [
+                500
+            ],
+            "text": "Earth Spike"
+        },
+        {
+            "cd": [
+                16,
+                12,
+                8,
+                4
+            ],
+            "id": 5046,
+            "mana": [
+                10
+            ],
+            "range": [
+                850
+            ],
+            "text": "Mana Drain"
+        },
+        {
+            "cd": [
+                30,
+                24,
+                18,
+                12
+            ],
+            "id": 5045,
+            "mana": [
+                125,
+                150,
+                175,
+                200
+            ],
+            "range": [
+                500
+            ],
+            "text": "Hex"
+        },
+        {
+            "cd": [
+                30
+            ],
+            "id": 5413,
+            "mana": [
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Rabid"
+        },
+        {
+            "cd": [
+                38,
+                32,
+                26,
+                20
+            ],
+            "id": 5414,
+            "mana": [
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Savage Roar"
+        },
+        {
+            "cd": [
+                38,
+                32,
+                26,
+                20
+            ],
+            "id": 5687,
+            "mana": [
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Savage Roar"
+        },
+        {
+            "cd": [
+                120
+            ],
+            "id": 5412,
+            "mana": [
+                75
+            ],
+            "range": [
+                0
+            ],
+            "text": "Summon Spirit Bear"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5420,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Demolish"
+        },
+        {
+            "cd": [
+                5
+            ],
+            "id": 5419,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Entangling Claws"
+        },
+        {
+            "cd": [
+                5
+            ],
+            "id": 5418,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Return"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5415,
+            "mana": [
+                25
+            ],
+            "range": [
+                0
+            ],
+            "text": "True Form"
+        },
+        {
+            "cd": [
+                60
+            ],
+            "id": 5417,
+            "mana": [
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Battle Cry"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5416,
+            "mana": [
+                25
+            ],
+            "range": [
+                0
+            ],
+            "text": "Druid Form"
+        },
+        {
+            "cd": [
+                140
+            ],
+            "id": 5225,
+            "mana": [
+                150,
+                200,
+                250
+            ],
+            "range": [
+                0
+            ],
+            "text": "Eclipse"
+        },
+        {
+            "cd": [
+                6
+            ],
+            "id": 5222,
+            "mana": [
+                90,
+                100,
+                110,
+                120
+            ],
+            "range": [
+                800
+            ],
+            "text": "Lucent Beam"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5224,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Lunar Blessing"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5223,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Moon Glaive"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5397,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Feral Impulse"
+        },
+        {
+            "cd": [
+                55,
+                50,
+                45,
+                40
+            ],
+            "id": 5396,
+            "mana": [
+                40
+            ],
+            "range": [
+                0
+            ],
+            "text": "Howl"
+        },
+        {
+            "cd": [
+                120,
+                90,
+                60
+            ],
+            "id": 5398,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Shapeshift"
+        },
+        {
+            "cd": [
+                30
+            ],
+            "id": 5395,
+            "mana": [
+                145
+            ],
+            "range": [
+                0
+            ],
+            "text": "Summon Wolves"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5399,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Cripple"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5500,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Invisibility"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5519,
+            "mana": [
+                30,
+                40,
+                50,
+                60
+            ],
+            "range": [
+                800
+            ],
+            "text": "Empower"
+        },
+        {
+            "cd": [
+                120,
+                110,
+                100
+            ],
+            "id": 5521,
+            "mana": [
+                200,
+                250,
+                300
+            ],
+            "range": [
+                410
+            ],
+            "text": "Reverse Polarity"
+        },
+        {
+            "cd": [
+                10,
+                9,
+                8,
+                7
+            ],
+            "id": 5518,
+            "mana": [
+                90
+            ],
+            "range": [
+                1150
+            ],
+            "text": "Shockwave"
+        },
+        {
+            "cd": [
+                25
+            ],
+            "id": 5520,
+            "mana": [
+                80
+            ],
+            "range": [
+                0
+            ],
+            "text": "Skewer"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5506,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Mana Shield"
+        },
+        {
+            "cd": [
+                11
+            ],
+            "id": 5505,
+            "mana": [
+                140,
+                150,
+                160,
+                170
+            ],
+            "range": [
+                800
+            ],
+            "text": "Mystic Snake"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5504,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Split Shot"
+        },
+        {
+            "cd": [
+                90
+            ],
+            "id": 5507,
+            "mana": [
+                200
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Stone Gaze"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5433,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Divided We Stand"
+        },
+        {
+            "cd": [
+                20,
+                16,
+                12,
+                8
+            ],
+            "id": 5430,
+            "mana": [
+                100
+            ],
+            "range": [
+                500,
+                750,
+                1000,
+                1250
+            ],
+            "text": "Earthbind"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5432,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Geostrike"
+        },
+        {
+            "cd": [
+                12,
+                10,
+                8,
+                6
+            ],
+            "id": 5431,
+            "mana": [
+                80
+            ],
+            "range": [
+                0
+            ],
+            "text": "Poof"
+        },
+        {
+            "cd": [
+                17
+            ],
+            "id": 5048,
+            "mana": [
+                100
+            ],
+            "range": [
+                3000
+            ],
+            "text": "Sacred Arrow"
+        },
+        {
+            "cd": [
+                140,
+                120,
+                100
+            ],
+            "id": 5049,
+            "mana": [
+                75
+            ],
+            "range": [
+                0
+            ],
+            "text": "Moonlight Shadow"
+        },
+        {
+            "cd": [
+                30,
+                26,
+                22,
+                18
+            ],
+            "id": 5050,
+            "mana": [
+                40,
+                35,
+                30,
+                20
+            ],
+            "range": [
+                0
+            ],
+            "text": "Leap"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 5051,
+            "mana": [
+                100,
+                120,
+                140,
+                160
+            ],
+            "range": [
+                0
+            ],
+            "text": "Starstorm"
+        },
+        {
+            "cd": [
+                25
+            ],
+            "id": 5716,
+            "mana": [
+                100
+            ],
+            "range": [
+                1200
+            ],
+            "text": "Boundless Strike"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5723,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Jingu Mastery"
+        },
+        {
+            "cd": [
+                3
+            ],
+            "id": 5719,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Mischief"
+        },
+        {
+            "cd": [
+                16
+            ],
+            "id": 5724,
+            "mana": [
+                100,
+                110,
+                120,
+                130
+            ],
+            "range": [
+                0
+            ],
+            "text": "Primal Spring"
+        },
+        {
+            "cd": [
+                "1.4"
+            ],
+            "id": 5721,
+            "mana": [
+                0
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Tree Dance"
+        },
+        {
+            "cd": [
+                1
+            ],
+            "id": 5722,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Revert Form"
+        },
+        {
+            "cd": [
+                100,
+                85,
+                70
+            ],
+            "id": 5725,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Wukong's Command"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5053,
+            "mana": [
+                100,
+                90,
+                80,
+                70
+            ],
+            "range": [
+                600,
+                700,
+                800,
+                900
+            ],
+            "text": "Adaptive Strike"
+        },
+        {
+            "cd": [
+                60
+            ],
+            "id": 5674,
+            "mana": [
+                200
+            ],
+            "range": [
+                600
+            ],
+            "text": "Hybrid"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5055,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Morph (Agility Gain)"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5058,
+            "mana": [
+                150
+            ],
+            "range": [
+                0
+            ],
+            "text": "Morph Replicate"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5056,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Morph (Strength Gain)"
+        },
+        {
+            "cd": [
+                80
+            ],
+            "id": 5057,
+            "mana": [
+                25
+            ],
+            "range": [
+                700,
+                1100,
+                1500
+            ],
+            "text": "Replicate"
+        },
+        {
+            "cd": [
+                11
+            ],
+            "id": 5052,
+            "mana": [
+                140,
+                155,
+                160,
+                165
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Waveform"
+        },
+        {
+            "cd": [
+                30
+            ],
+            "id": 5670,
+            "mana": [
+                0
+            ],
+            "range": [
+                800
+            ],
+            "text": "Hurl Boulder"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5667,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Shard Split"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5688,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Cloak Aura"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 5468,
+            "mana": [
+                90,
+                100,
+                110,
+                120
+            ],
+            "range": [
+                650
+            ],
+            "text": "Ensnare"
+        },
+        {
+            "cd": [
+                40
+            ],
+            "id": 5467,
+            "mana": [
+                70,
+                80,
+                90,
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Mirror Image"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5469,
+            "mana": [
+                80,
+                90,
+                100,
+                110
+            ],
+            "range": [
+                0
+            ],
+            "text": "Rip Tide"
+        },
+        {
+            "cd": [
+                180,
+                120,
+                60
+            ],
+            "id": 5470,
+            "mana": [
+                100
+            ],
+            "range": [
+                1250
+            ],
+            "text": "Song of the Siren"
+        },
+        {
+            "cd": [
+                1
+            ],
+            "id": 5478,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Song of the Siren End"
+        },
+        {
+            "cd": [
+                8,
+                7,
+                6,
+                5
+            ],
+            "id": 5158,
+            "mana": [
+                125,
+                145,
+                165,
+                185
+            ],
+            "range": [
+                0
+            ],
+            "text": "Death Pulse"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5159,
+            "mana": [
+                0
+            ],
+            "range": [
+                900
+            ],
+            "text": "Heartstopper Aura"
+        },
+        {
+            "cd": [
+                100,
+                85,
+                70
+            ],
+            "id": 5161,
+            "mana": [
+                175,
+                340,
+                500
+            ],
+            "range": [
+                600
+            ],
+            "text": "Reaper's Scythe"
+        },
+        {
+            "cd": [
+                28,
+                24,
+                20,
+                16
+            ],
+            "id": 5160,
+            "mana": [
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Ghost Shroud"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5204,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Archer Aura"
+        },
+        {
+            "cd": [
+                7
+            ],
+            "id": 5203,
+            "mana": [
+                0
+            ],
+            "range": [
+                600
+            ],
+            "text": "Mana Burn"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5200,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Last Will"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5202,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Mana Break"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5201,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "True Sight"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5303,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Spell Immunity"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5063,
+            "mana": [
+                0
+            ],
+            "range": [
+                900
+            ],
+            "text": "Presence of the Dark Lord"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5062,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Necromastery"
+        },
+        {
+            "cd": [
+                120,
+                110,
+                100
+            ],
+            "id": 5064,
+            "mana": [
+                150,
+                175,
+                200
+            ],
+            "range": [
+                0
+            ],
+            "text": "Requiem of Souls"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5059,
+            "mana": [
+                90
+            ],
+            "range": [
+                0
+            ],
+            "text": "Shadowraze"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5060,
+            "mana": [
+                90
+            ],
+            "range": [
+                0
+            ],
+            "text": "Shadowraze"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5061,
+            "mana": [
+                90
+            ],
+            "range": [
+                0
+            ],
+            "text": "Shadowraze"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 5276,
+            "mana": [
+                50
+            ],
+            "range": [
+                500
+            ],
+            "text": "Crippling Fear"
+        },
+        {
+            "cd": [
+                160,
+                120,
+                80
+            ],
+            "id": 5278,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Darkness"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5277,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Hunter in the Night"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5275,
+            "mana": [
+                80,
+                90,
+                100,
+                110
+            ],
+            "range": [
+                525
+            ],
+            "text": "Void"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5666,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Burrow"
+        },
+        {
+            "cd": [
+                13
+            ],
+            "id": 5462,
+            "mana": [
+                95,
+                115,
+                135,
+                155
+            ],
+            "range": [
+                700
+            ],
+            "text": "Impale"
+        },
+        {
+            "cd": [
+                28,
+                20,
+                12,
+                4
+            ],
+            "id": 5463,
+            "mana": [
+                100
+            ],
+            "range": [
+                600
+            ],
+            "text": "Mana Burn"
+        },
+        {
+            "cd": [
+                22,
+                18,
+                14,
+                10
+            ],
+            "id": 5464,
+            "mana": [
+                40
+            ],
+            "range": [
+                0
+            ],
+            "text": "Spiked Carapace"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5673,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Unburrow"
+        },
+        {
+            "cd": [
+                70,
+                60,
+                50
+            ],
+            "id": 5465,
+            "mana": [
+                160,
+                210,
+                260
+            ],
+            "range": [
+                0
+            ],
+            "text": "Vendetta"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5391,
+            "mana": [
+                100,
+                120,
+                140,
+                160
+            ],
+            "range": [
+                450
+            ],
+            "text": "Arcane Orb"
+        },
+        {
+            "cd": [
+                22,
+                18,
+                14,
+                10
+            ],
+            "id": 5392,
+            "mana": [
+                120,
+                140,
+                160,
+                180
+            ],
+            "range": [
+                225,
+                300,
+                375,
+                450
+            ],
+            "text": "Astral Imprisonment"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5393,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Essence Aura"
+        },
+        {
+            "cd": [
+                160
+            ],
+            "id": 5394,
+            "mana": [
+                175,
+                250,
+                325
+            ],
+            "range": [
+                700
+            ],
+            "text": "Sanity's Eclipse"
+        },
+        {
+            "cd": [
+                20
+            ],
+            "id": 5440,
+            "mana": [
+                50
+            ],
+            "range": [
+                600
+            ],
+            "text": "Bloodlust"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 5438,
+            "mana": [
+                75,
+                85,
+                95,
+                105
+            ],
+            "range": [
+                475
+            ],
+            "text": "Fireblast"
+        },
+        {
+            "cd": [
+                5
+            ],
+            "id": 5304,
+            "mana": [
+                40
+            ],
+            "range": [
+                800
+            ],
+            "text": "Ice Armor"
+        },
+        {
+            "cd": [
+                15
+            ],
+            "id": 5439,
+            "mana": [
+                90
+            ],
+            "range": [
+                700
+            ],
+            "text": "Ignite"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5441,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Multicast"
+        },
+        {
+            "cd": [
+                6
+            ],
+            "id": 5466,
+            "mana": [
+                400
+            ],
+            "range": [
+                475
+            ],
+            "text": "Unrefined Fireblast"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5265,
+            "mana": [
+                0
+            ],
+            "range": [
+                350
+            ],
+            "text": "Degen Aura"
+        },
+        {
+            "cd": [
+                160
+            ],
+            "id": 5266,
+            "mana": [
+                125,
+                175,
+                250
+            ],
+            "range": [
+                0
+            ],
+            "text": "Guardian Angel"
+        },
+        {
+            "cd": [
+                11,
+                10,
+                9,
+                8
+            ],
+            "id": 5263,
+            "mana": [
+                85,
+                100,
+                115,
+                130
+            ],
+            "range": [
+                575
+            ],
+            "text": "Purification"
+        },
+        {
+            "cd": [
+                30,
+                26,
+                22,
+                18
+            ],
+            "id": 5264,
+            "mana": [
+                50
+            ],
+            "range": [
+                500
+            ],
+            "text": "Repel"
+        },
+        {
+            "cd": [
+                100,
+                65,
+                30
+            ],
+            "id": 5640,
+            "mana": [
+                100
+            ],
+            "range": [
+                1000
+            ],
+            "text": "False Promise"
+        },
+        {
+            "cd": [
+                16,
+                13,
+                10,
+                7
+            ],
+            "id": 5638,
+            "mana": [
+                50
+            ],
+            "range": [
+                500,
+                600,
+                700,
+                800
+            ],
+            "text": "Fate's Edict"
+        },
+        {
+            "cd": [
+                15,
+                12,
+                9,
+                6
+            ],
+            "id": 5637,
+            "mana": [
+                110
+            ],
+            "range": [
+                850
+            ],
+            "text": "Fortune's End"
+        },
+        {
+            "cd": [
+                "2.25"
+            ],
+            "id": 5639,
+            "mana": [
+                80,
+                85,
+                90,
+                95
+            ],
+            "range": [
+                800
+            ],
+            "text": "Purifying Flames"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5192,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Blur"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5193,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Coup de Grace"
+        },
+        {
+            "cd": [
+                14,
+                11,
+                8,
+                5
+            ],
+            "id": 5191,
+            "mana": [
+                50
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Phantom Strike"
+        },
+        {
+            "cd": [
+                6
+            ],
+            "id": 5190,
+            "mana": [
+                30,
+                25,
+                20,
+                15
+            ],
+            "range": [
+                525,
+                750,
+                975,
+                1200
+            ],
+            "text": "Stifling Dagger"
+        },
+        {
+            "cd": [
+                25,
+                20,
+                15,
+                10
+            ],
+            "id": 5066,
+            "mana": [
+                50
+            ],
+            "range": [
+                600
+            ],
+            "text": "Doppelganger"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5067,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Juxtapose"
+        },
+        {
+            "cd": [
+                16,
+                12,
+                8,
+                4
+            ],
+            "id": 5068,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Phantom Rush"
+        },
+        {
+            "cd": [
+                7
+            ],
+            "id": 5065,
+            "mana": [
+                125,
+                130,
+                135,
+                140
+            ],
+            "range": [
+                750
+            ],
+            "text": "Spirit Lance"
+        },
+        {
+            "cd": [
+                45,
+                40,
+                35,
+                30
+            ],
+            "id": 5625,
+            "mana": [
+                80,
+                90,
+                100,
+                110
+            ],
+            "range": [
+                1400
+            ],
+            "text": "Fire Spirits"
+        },
+        {
+            "cd": [
+                36
+            ],
+            "id": 5623,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Icarus Dive"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5624,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Stop Icarus Dive"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5631,
+            "mana": [
+                0
+            ],
+            "range": [
+                1400
+            ],
+            "text": "Launch Fire Spirit"
+        },
+        {
+            "cd": [
+                26
+            ],
+            "id": 5626,
+            "mana": [
+                100
+            ],
+            "range": [
+                1300
+            ],
+            "text": "Sun Ray"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5627,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Stop Sun Ray"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5628,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Toggle Movement"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5629,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": ""
+        },
+        {
+            "cd": [
+                110
+            ],
+            "id": 5630,
+            "mana": [
+                200
+            ],
+            "range": [
+                500
+            ],
+            "text": "Supernova"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 5302,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Thunder Clap"
+        },
+        {
+            "cd": [
+                70,
+                65,
+                60
+            ],
+            "id": 5073,
+            "mana": [
+                100,
+                150,
+                200
+            ],
+            "range": [
+                750
+            ],
+            "text": "Dream Coil"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5070,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Ethereal Jaunt"
+        },
+        {
+            "cd": [
+                14,
+                13,
+                12,
+                11
+            ],
+            "id": 5069,
+            "mana": [
+                80,
+                100,
+                120,
+                140
+            ],
+            "range": [
+                3000
+            ],
+            "text": "Illusory Orb"
+        },
+        {
+            "cd": [
+                6
+            ],
+            "id": 5072,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Phase Shift"
+        },
+        {
+            "cd": [
+                16,
+                15,
+                14,
+                13
+            ],
+            "id": 5071,
+            "mana": [
+                100,
+                110,
+                120,
+                130
+            ],
+            "range": [
+                0
+            ],
+            "text": "Waning Rift"
+        },
+        {
+            "cd": [
+                30,
+                25,
+                20
+            ],
+            "id": 5077,
+            "mana": [
+                100,
+                130,
+                170
+            ],
+            "range": [
+                160
+            ],
+            "text": "Dismember"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5074,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Flesh Heap"
+        },
+        {
+            "cd": [
+                14,
+                13,
+                12,
+                11
+            ],
+            "id": 5075,
+            "mana": [
+                110,
+                120,
+                130,
+                140
+            ],
+            "range": [
+                1000,
+                1100,
+                1200,
+                1300
+            ],
+            "text": "Meat Hook"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5076,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Rot"
+        },
+        {
+            "cd": [
+                15,
+                12,
+                9,
+                6
+            ],
+            "id": 5187,
+            "mana": [
+                60
+            ],
+            "range": [
+                700
+            ],
+            "text": "Decrepify"
+        },
+        {
+            "cd": [
+                22
+            ],
+            "id": 5189,
+            "mana": [
+                125,
+                175,
+                225
+            ],
+            "range": [
+                900,
+                1050,
+                1200
+            ],
+            "text": "Life Drain"
+        },
+        {
+            "cd": [
+                5
+            ],
+            "id": 5186,
+            "mana": [
+                85,
+                105,
+                125,
+                145
+            ],
+            "range": [
+                400
+            ],
+            "text": "Nether Blast"
+        },
+        {
+            "cd": [
+                35
+            ],
+            "id": 5188,
+            "mana": [
+                80
+            ],
+            "range": [
+                150
+            ],
+            "text": "Nether Ward"
+        },
+        {
+            "cd": [
+                15,
+                12,
+                9,
+                6
+            ],
+            "id": 5174,
+            "mana": [
+                60
+            ],
+            "range": [
+                0
+            ],
+            "text": "Blink"
+        },
+        {
+            "cd": [
+                7
+            ],
+            "id": 5175,
+            "mana": [
+                110,
+                120,
+                130,
+                140
+            ],
+            "range": [
+                0
+            ],
+            "text": "Scream Of Pain"
+        },
+        {
+            "cd": [
+                16,
+                12,
+                8,
+                4
+            ],
+            "id": 5173,
+            "mana": [
+                110
+            ],
+            "range": [
+                450,
+                475,
+                500,
+                525
+            ],
+            "text": "Shadow Strike"
+        },
+        {
+            "cd": [
+                135
+            ],
+            "id": 5176,
+            "mana": [
+                250,
+                360,
+                500
+            ],
+            "range": [
+                700
+            ],
+            "text": "Sonic Wave"
+        },
+        {
+            "cd": [
+                32,
+                28,
+                24,
+                20
+            ],
+            "id": 5237,
+            "mana": [
+                75
+            ],
+            "range": [
+                0
+            ],
+            "text": "Battery Assault"
+        },
+        {
+            "cd": [
+                70,
+                55,
+                40
+            ],
+            "id": 5240,
+            "mana": [
+                150
+            ],
+            "range": [
+                2000,
+                2500,
+                3000
+            ],
+            "text": "Hookshot"
+        },
+        {
+            "cd": [
+                15
+            ],
+            "id": 5238,
+            "mana": [
+                50,
+                60,
+                70,
+                80
+            ],
+            "range": [
+                0
+            ],
+            "text": "Power Cogs"
+        },
+        {
+            "cd": [
+                20,
+                18,
+                16,
+                14
+            ],
+            "id": 5239,
+            "mana": [
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Rocket Flare"
+        },
+        {
+            "cd": [
+                80,
+                70,
+                60
+            ],
+            "id": 5085,
+            "mana": [
+                100,
+                150,
+                200
+            ],
+            "range": [
+                0
+            ],
+            "text": "Eye of the Storm"
+        },
+        {
+            "cd": [
+                14
+            ],
+            "id": 5082,
+            "mana": [
+                125
+            ],
+            "range": [
+                0
+            ],
+            "text": "Plasma Field"
+        },
+        {
+            "cd": [
+                32,
+                30,
+                28,
+                26
+            ],
+            "id": 5083,
+            "mana": [
+                50
+            ],
+            "range": [
+                600
+            ],
+            "text": "Static Link"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5084,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Unstable Current"
+        },
+        {
+            "cd": [
+                16,
+                12,
+                8,
+                4
+            ],
+            "id": 5143,
+            "mana": [
+                50
+            ],
+            "range": [
+                800
+            ],
+            "text": "Blink Strike"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5144,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Cloak and Dagger"
+        },
+        {
+            "cd": [
+                11
+            ],
+            "id": 5142,
+            "mana": [
+                90
+            ],
+            "range": [
+                550
+            ],
+            "text": "Smoke Screen"
+        },
+        {
+            "cd": [
+                40,
+                35,
+                30
+            ],
+            "id": 5145,
+            "mana": [
+                75
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Tricks of the Trade"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5214,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Bash"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 9991,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": ""
+        },
+        {
+            "cd": [
+                20
+            ],
+            "id": 9998,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Apocalypse"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 9990,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": ""
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 10000,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": ""
+        },
+        {
+            "cd": [
+                5
+            ],
+            "id": 9995,
+            "mana": [
+                0
+            ],
+            "range": [
+                1300
+            ],
+            "text": "Toss"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 9993,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Wave of Force"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5215,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Slam"
+        },
+        {
+            "cd": [
+                15
+            ],
+            "id": 5213,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Spell Block"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5453,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Stolen Spell"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5454,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Stolen Spell"
+        },
+        {
+            "cd": [
+                16,
+                14,
+                12,
+                10
+            ],
+            "id": 5450,
+            "mana": [
+                120,
+                130,
+                140,
+                150
+            ],
+            "range": [
+                800
+            ],
+            "text": "Fade Bolt"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5451,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Null Field"
+        },
+        {
+            "cd": [
+                20,
+                18,
+                16
+            ],
+            "id": 5452,
+            "mana": [
+                25
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Spell Steal"
+        },
+        {
+            "cd": [
+                22
+            ],
+            "id": 5448,
+            "mana": [
+                120
+            ],
+            "range": [
+                550,
+                575,
+                600,
+                625
+            ],
+            "text": "Telekinesis"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5449,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Telekinesis Land"
+        },
+        {
+            "cd": [
+                11
+            ],
+            "id": 5102,
+            "mana": [
+                110,
+                120,
+                130,
+                140
+            ],
+            "range": [
+                350,
+                450,
+                550,
+                650
+            ],
+            "text": "Burrowstrike"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5104,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Caustic Finale"
+        },
+        {
+            "cd": [
+                120,
+                110,
+                100
+            ],
+            "id": 5105,
+            "mana": [
+                150,
+                225,
+                300
+            ],
+            "range": [
+                0
+            ],
+            "text": "Epicenter"
+        },
+        {
+            "cd": [
+                34,
+                26,
+                18,
+                10
+            ],
+            "id": 5103,
+            "mana": [
+                60,
+                50,
+                40,
+                30
+            ],
+            "range": [
+                0
+            ],
+            "text": "Sand Storm"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5316,
+            "mana": [
+                100
+            ],
+            "range": [
+                700
+            ],
+            "text": "Shockwave"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5317,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Unholy Aura"
+        },
+        {
+            "cd": [
+                18
+            ],
+            "id": 5315,
+            "mana": [
+                50
+            ],
+            "range": [
+                600
+            ],
+            "text": "Mana Burn"
+        },
+        {
+            "cd": [
+                3
+            ],
+            "id": 5314,
+            "mana": [
+                120
+            ],
+            "range": [
+                350
+            ],
+            "text": "Purge"
+        },
+        {
+            "cd": [
+                50
+            ],
+            "id": 5425,
+            "mana": [
+                200
+            ],
+            "range": [
+                800
+            ],
+            "text": "Demonic Purge"
+        },
+        {
+            "cd": [
+                27,
+                24,
+                21,
+                18
+            ],
+            "id": 5421,
+            "mana": [
+                120
+            ],
+            "range": [
+                600
+            ],
+            "text": "Disruption"
+        },
+        {
+            "cd": [
+                "2.5"
+            ],
+            "id": 5423,
+            "mana": [
+                55
+            ],
+            "range": [
+                1500
+            ],
+            "text": "Shadow Poison"
+        },
+        {
+            "cd": [
+                1
+            ],
+            "id": 5424,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Shadow Poison Release"
+        },
+        {
+            "cd": [
+                13,
+                12,
+                11,
+                10
+            ],
+            "id": 5422,
+            "mana": [
+                50,
+                60,
+                70,
+                80
+            ],
+            "range": [
+                600
+            ],
+            "text": "Soul Catcher"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5078,
+            "mana": [
+                95,
+                105,
+                135,
+                160
+            ],
+            "range": [
+                600
+            ],
+            "text": "Ether Shock"
+        },
+        {
+            "cd": [
+                120
+            ],
+            "id": 5081,
+            "mana": [
+                200,
+                350,
+                600
+            ],
+            "range": [
+                550
+            ],
+            "text": "Mass Serpent Ward"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5080,
+            "mana": [
+                140,
+                150,
+                160,
+                170
+            ],
+            "range": [
+                400
+            ],
+            "text": "Shackles"
+        },
+        {
+            "cd": [
+                13
+            ],
+            "id": 5079,
+            "mana": [
+                110,
+                140,
+                170,
+                200
+            ],
+            "range": [
+                500
+            ],
+            "text": "Hex"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5527,
+            "mana": [
+                100,
+                150,
+                200
+            ],
+            "range": [
+                1200
+            ],
+            "text": "Chakram"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5645,
+            "mana": [
+                100,
+                150,
+                200
+            ],
+            "range": [
+                1200
+            ],
+            "text": "Chakram"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5526,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Reactive Armor"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5528,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Return Chakram"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5646,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Return Chakram"
+        },
+        {
+            "cd": [
+                4
+            ],
+            "id": 5525,
+            "mana": [
+                60,
+                70,
+                80,
+                90
+            ],
+            "range": [
+                850,
+                1050,
+                1250,
+                1450
+            ],
+            "text": "Timber Chain"
+        },
+        {
+            "cd": [
+                6
+            ],
+            "id": 5524,
+            "mana": [
+                70
+            ],
+            "range": [
+                300
+            ],
+            "text": "Whirling Death"
+        },
+        {
+            "cd": [
+                20,
+                18,
+                16,
+                14
+            ],
+            "id": 5377,
+            "mana": [
+                75,
+                95,
+                115,
+                135
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Arcane Curse"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5378,
+            "mana": [
+                15
+            ],
+            "range": [
+                600
+            ],
+            "text": "Glaives of Wisdom"
+        },
+        {
+            "cd": [
+                130
+            ],
+            "id": 5380,
+            "mana": [
+                250,
+                375,
+                500
+            ],
+            "range": [
+                0
+            ],
+            "text": "Global Silence"
+        },
+        {
+            "cd": [
+                30,
+                24,
+                18,
+                12
+            ],
+            "id": 5379,
+            "mana": [
+                115
+            ],
+            "range": [
+                900
+            ],
+            "text": "Last Word"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5086,
+            "mana": [
+                140
+            ],
+            "range": [
+                525
+            ],
+            "text": "Wraithfire Blast"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5088,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Mortal Strike"
+        },
+        {
+            "cd": [
+                240,
+                140,
+                40
+            ],
+            "id": 5089,
+            "mana": [
+                160
+            ],
+            "range": [
+                0
+            ],
+            "text": "Reincarnation"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5087,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Vampiric Aura"
+        },
+        {
+            "cd": [
+                14
+            ],
+            "id": 5583,
+            "mana": [
+                80,
+                90,
+                100,
+                110
+            ],
+            "range": [
+                700
+            ],
+            "text": "Ancient Seal"
+        },
+        {
+            "cd": [
+                5,
+                4,
+                3,
+                2
+            ],
+            "id": 5581,
+            "mana": [
+                70
+            ],
+            "range": [
+                800
+            ],
+            "text": "Arcane Bolt"
+        },
+        {
+            "cd": [
+                18,
+                16,
+                14,
+                12
+            ],
+            "id": 5582,
+            "mana": [
+                95
+            ],
+            "range": [
+                1600
+            ],
+            "text": "Concussive Shot"
+        },
+        {
+            "cd": [
+                60,
+                40,
+                20
+            ],
+            "id": 5584,
+            "mana": [
+                350,
+                575,
+                800
+            ],
+            "range": [
+                1200
+            ],
+            "text": "Mystic Flare"
+        },
+        {
+            "cd": [
+                5
+            ],
+            "id": 5117,
+            "mana": [
+                25
+            ],
+            "range": [
+                700
+            ],
+            "text": "Corrosive Haze"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5116,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Bash of the Deep"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5115,
+            "mana": [
+                80,
+                95,
+                105,
+                115
+            ],
+            "range": [
+                0
+            ],
+            "text": "Slithereen Crush"
+        },
+        {
+            "cd": [
+                17
+            ],
+            "id": 5114,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Guardian Sprint"
+        },
+        {
+            "cd": [
+                9,
+                8,
+                7,
+                6
+            ],
+            "id": 5494,
+            "mana": [
+                55,
+                50,
+                45,
+                40
+            ],
+            "range": [
+                325
+            ],
+            "text": "Dark Pact"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5496,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Essence Shift"
+        },
+        {
+            "cd": [
+                20,
+                16,
+                12,
+                8
+            ],
+            "id": 5495,
+            "mana": [
+                75
+            ],
+            "range": [
+                0
+            ],
+            "text": "Pounce"
+        },
+        {
+            "cd": [
+                60
+            ],
+            "id": 5497,
+            "mana": [
+                120
+            ],
+            "range": [
+                0
+            ],
+            "text": "Shadow Dance"
+        },
+        {
+            "cd": [
+                20,
+                15,
+                10
+            ],
+            "id": 5157,
+            "mana": [
+                175,
+                275,
+                375
+            ],
+            "range": [
+                2000,
+                2500,
+                3000
+            ],
+            "text": "Assassinate"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5155,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Headshot"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5154,
+            "mana": [
+                50
+            ],
+            "range": [
+                1800
+            ],
+            "text": "Shrapnel"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5156,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Take Aim"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 6125,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Prowler Aura"
+        },
+        {
+            "cd": [
+                15
+            ],
+            "id": 6278,
+            "mana": [
+                0
+            ],
+            "range": [
+                150
+            ],
+            "text": "Petrify"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 6270,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Desecrate"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5335,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Desolate"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5336,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Dispersion"
+        },
+        {
+            "cd": [
+                140,
+                130,
+                120
+            ],
+            "id": 5337,
+            "mana": [
+                150
+            ],
+            "range": [
+                0
+            ],
+            "text": "Haunt"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5338,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Reality"
+        },
+        {
+            "cd": [
+                16
+            ],
+            "id": 5334,
+            "mana": [
+                130,
+                140,
+                150,
+                160
+            ],
+            "range": [
+                2000
+            ],
+            "text": "Spectral Dagger"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 5353,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Charge of Darkness"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 5354,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Empowering Haste"
+        },
+        {
+            "cd": [
+                "1.5"
+            ],
+            "id": 5355,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Greater Bash"
+        },
+        {
+            "cd": [
+                80,
+                70,
+                60
+            ],
+            "id": 5356,
+            "mana": [
+                125,
+                150,
+                175
+            ],
+            "range": [
+                700
+            ],
+            "text": "Nether Strike"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5101,
+            "mana": [
+                30
+            ],
+            "range": [
+                0
+            ],
+            "text": "Ball Lightning"
+        },
+        {
+            "cd": [
+                21,
+                20,
+                19,
+                18
+            ],
+            "id": 5099,
+            "mana": [
+                85
+            ],
+            "range": [
+                300
+            ],
+            "text": "Electric Vortex"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5100,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Overload"
+        },
+        {
+            "cd": [
+                "3.5"
+            ],
+            "id": 5098,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Static Remnant"
+        },
+        {
+            "cd": [
+                80
+            ],
+            "id": 5097,
+            "mana": [
+                100,
+                150,
+                200
+            ],
+            "range": [
+                0
+            ],
+            "text": "God's Strength"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5095,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Great Cleave"
+        },
+        {
+            "cd": [
+                13
+            ],
+            "id": 5094,
+            "mana": [
+                140
+            ],
+            "range": [
+                600
+            ],
+            "text": "Storm Hammer"
+        },
+        {
+            "cd": [
+                32,
+                26,
+                20,
+                14
+            ],
+            "id": 5096,
+            "mana": [
+                25
+            ],
+            "range": [
+                0
+            ],
+            "text": "Warcry"
+        },
+        {
+            "cd": [
+                1
+            ],
+            "id": 5635,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Focused Detonate"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 5599,
+            "mana": [
+                110,
+                130,
+                150,
+                170
+            ],
+            "range": [
+                100
+            ],
+            "text": "Proximity Mines"
+        },
+        {
+            "cd": [
+                360
+            ],
+            "id": 5644,
+            "mana": [
+                0
+            ],
+            "range": [
+                10
+            ],
+            "text": "Minefield Sign"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5602,
+            "mana": [
+                200,
+                240,
+                300
+            ],
+            "range": [
+                500
+            ],
+            "text": "Remote Mines"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5636,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "PINPOINT DETONATE"
+        },
+        {
+            "cd": [
+                20,
+                16,
+                13,
+                10
+            ],
+            "id": 5600,
+            "mana": [
+                80,
+                110,
+                140,
+                160
+            ],
+            "range": [
+                150
+            ],
+            "text": "Stasis Trap"
+        },
+        {
+            "cd": [
+                35
+            ],
+            "id": 5601,
+            "mana": [
+                100,
+                125,
+                150,
+                175
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Blast Off!"
+        },
+        {
+            "cd": [
+                6
+            ],
+            "id": 5195,
+            "mana": [
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Meld"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5196,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Psi Blades"
+        },
+        {
+            "cd": [
+                11,
+                8,
+                5
+            ],
+            "id": 5197,
+            "mana": [
+                15
+            ],
+            "range": [
+                2000
+            ],
+            "text": "Psionic Trap"
+        },
+        {
+            "cd": [
+                17
+            ],
+            "id": 5194,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Refraction"
+        },
+        {
+            "cd": [
+                "0.5"
+            ],
+            "id": 5199,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Trap"
+        },
+        {
+            "cd": [
+                "0.5"
+            ],
+            "id": 5198,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Trap"
+        },
+        {
+            "cd": [
+                16
+            ],
+            "id": 5620,
+            "mana": [
+                70
+            ],
+            "range": [
+                0
+            ],
+            "text": "Conjure Image"
+        },
+        {
+            "cd": [
+                140
+            ],
+            "id": 5621,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Metamorphosis"
+        },
+        {
+            "cd": [
+                22,
+                20,
+                18,
+                16
+            ],
+            "id": 5619,
+            "mana": [
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Reflection"
+        },
+        {
+            "cd": [
+                120,
+                80,
+                40
+            ],
+            "id": 5622,
+            "mana": [
+                200,
+                100,
+                0
+            ],
+            "range": [
+                550
+            ],
+            "text": "Sunder"
+        },
+        {
+            "cd": [
+                7,
+                6,
+                5,
+                4
+            ],
+            "id": 5120,
+            "mana": [
+                30,
+                40,
+                50,
+                60
+            ],
+            "range": [
+                375
+            ],
+            "text": "Anchor Smash"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 5118,
+            "mana": [
+                120
+            ],
+            "range": [
+                700
+            ],
+            "text": "Gush"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5119,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Kraken Shell"
+        },
+        {
+            "cd": [
+                150
+            ],
+            "id": 5121,
+            "mana": [
+                150,
+                225,
+                325
+            ],
+            "range": [
+                0
+            ],
+            "text": "Ravage"
+        },
+        {
+            "cd": [
+                25
+            ],
+            "id": 5151,
+            "mana": [
+                120,
+                140,
+                160,
+                180
+            ],
+            "range": [
+                0
+            ],
+            "text": "Heat-Seeking Missile"
+        },
+        {
+            "cd": [
+                14
+            ],
+            "id": 5150,
+            "mana": [
+                95,
+                120,
+                145,
+                170
+            ],
+            "range": [
+                650
+            ],
+            "text": "Laser"
+        },
+        {
+            "cd": [
+                35
+            ],
+            "id": 5152,
+            "mana": [
+                145,
+                150,
+                165,
+                190
+            ],
+            "range": [
+                300
+            ],
+            "text": "March of the Machines"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5153,
+            "mana": [
+                100,
+                200,
+                300
+            ],
+            "range": [
+                0
+            ],
+            "text": "Rearm"
+        },
+        {
+            "cd": [
+                17
+            ],
+            "id": 5106,
+            "mana": [
+                120
+            ],
+            "range": [
+                600
+            ],
+            "text": "Avalanche"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5108,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Craggy Exterior"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5109,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Grow"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5107,
+            "mana": [
+                120
+            ],
+            "range": [
+                1300
+            ],
+            "text": "Toss"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5310,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Tempest"
+        },
+        {
+            "cd": [
+                25
+            ],
+            "id": 5649,
+            "mana": [
+                100
+            ],
+            "range": [
+                160
+            ],
+            "text": "Eyes In The Forest"
+        },
+        {
+            "cd": [
+                16,
+                13,
+                10,
+                7
+            ],
+            "id": 5435,
+            "mana": [
+                80,
+                95,
+                110,
+                125
+            ],
+            "range": [
+                350
+            ],
+            "text": "Leech Seed"
+        },
+        {
+            "cd": [
+                30,
+                24,
+                18,
+                12
+            ],
+            "id": 5436,
+            "mana": [
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Living Armor"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5434,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Nature's Guise"
+        },
+        {
+            "cd": [
+                70
+            ],
+            "id": 5437,
+            "mana": [
+                150,
+                175,
+                200
+            ],
+            "range": [
+                0
+            ],
+            "text": "Overgrowth"
+        },
+        {
+            "cd": [
+                30
+            ],
+            "id": 5512,
+            "mana": [
+                75
+            ],
+            "range": [
+                0
+            ],
+            "text": "Battle Trance"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5508,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Berserker's Rage"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5511,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Fervor"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 5510,
+            "mana": [
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Whirling Axes (Melee)"
+        },
+        {
+            "cd": [
+                19,
+                16,
+                13,
+                10
+            ],
+            "id": 5509,
+            "mana": [
+                50
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Whirling Axes (Ranged)"
+        },
+        {
+            "cd": [
+                50
+            ],
+            "id": 5567,
+            "mana": [
+                75
+            ],
+            "range": [
+                0
+            ],
+            "text": "Frozen Sigil"
+        },
+        {
+            "cd": [
+                19,
+                16,
+                13,
+                10
+            ],
+            "id": 5565,
+            "mana": [
+                100,
+                105,
+                110,
+                115
+            ],
+            "range": [
+                1800
+            ],
+            "text": "Ice Shards"
+        },
+        {
+            "cd": [
+                21,
+                20,
+                19,
+                18
+            ],
+            "id": 5566,
+            "mana": [
+                75
+            ],
+            "range": [
+                1250
+            ],
+            "text": "Snowball"
+        },
+        {
+            "cd": [
+                8
+            ],
+            "id": 5672,
+            "mana": [
+                100
+            ],
+            "range": [
+                150
+            ],
+            "text": "Walrus Kick"
+        },
+        {
+            "cd": [
+                36,
+                24,
+                12
+            ],
+            "id": 5568,
+            "mana": [
+                50,
+                75,
+                100
+            ],
+            "range": [
+                150
+            ],
+            "text": "Walrus PUNCH!"
+        },
+        {
+            "cd": [
+                10,
+                8,
+                6,
+                4
+            ],
+            "id": 5442,
+            "mana": [
+                70,
+                90,
+                110,
+                130
+            ],
+            "range": [
+                650
+            ],
+            "text": "Decay"
+        },
+        {
+            "cd": [
+                75
+            ],
+            "id": 5447,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Flesh Golem"
+        },
+        {
+            "cd": [
+                24,
+                18,
+                12,
+                6
+            ],
+            "id": 5443,
+            "mana": [
+                100,
+                110,
+                120,
+                130
+            ],
+            "range": [
+                750
+            ],
+            "text": "Soul Rip"
+        },
+        {
+            "cd": [
+                70
+            ],
+            "id": 5444,
+            "mana": [
+                120,
+                130,
+                140,
+                150
+            ],
+            "range": [
+                600
+            ],
+            "text": "Tombstone"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5446,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Deathlust"
+        },
+        {
+            "cd": [
+                5
+            ],
+            "id": 5357,
+            "mana": [
+                75
+            ],
+            "range": [
+                0
+            ],
+            "text": "Earthshock"
+        },
+        {
+            "cd": [
+                50,
+                40,
+                30
+            ],
+            "id": 5360,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Enrage"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5359,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Fury Swipes"
+        },
+        {
+            "cd": [
+                10
+            ],
+            "id": 5358,
+            "mana": [
+                45,
+                55,
+                65,
+                75
+            ],
+            "range": [
+                0
+            ],
+            "text": "Overpower"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5123,
+            "mana": [
+                0
+            ],
+            "range": [
+                900
+            ],
+            "text": "Vengeance Aura"
+        },
+        {
+            "cd": [
+                13,
+                12,
+                11,
+                10
+            ],
+            "id": 5122,
+            "mana": [
+                110,
+                120,
+                130,
+                140
+            ],
+            "range": [
+                500
+            ],
+            "text": "Magic Missile"
+        },
+        {
+            "cd": [
+                45
+            ],
+            "id": 5125,
+            "mana": [
+                100,
+                150,
+                200
+            ],
+            "range": [
+                700,
+                950,
+                1200
+            ],
+            "text": "Nether Swap"
+        },
+        {
+            "cd": [
+                20
+            ],
+            "id": 5124,
+            "mana": [
+                40
+            ],
+            "range": [
+                1400
+            ],
+            "text": "Wave of Terror"
+        },
+        {
+            "cd": [
+                5
+            ],
+            "id": 5180,
+            "mana": [
+                20
+            ],
+            "range": [
+                850
+            ],
+            "text": "Plague Ward"
+        },
+        {
+            "cd": [
+                140,
+                120,
+                100
+            ],
+            "id": 5181,
+            "mana": [
+                200,
+                300,
+                400
+            ],
+            "range": [
+                0
+            ],
+            "text": "Poison Nova"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5179,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Poison Sting"
+        },
+        {
+            "cd": [
+                21,
+                20,
+                19,
+                18
+            ],
+            "id": 5178,
+            "mana": [
+                125
+            ],
+            "range": [
+                800
+            ],
+            "text": "Venomous Gale"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5220,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Corrosive Skin"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5219,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Nethertoxin"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5218,
+            "mana": [
+                20
+            ],
+            "range": [
+                600
+            ],
+            "text": "Poison Attack"
+        },
+        {
+            "cd": [
+                70,
+                50,
+                30
+            ],
+            "id": 5221,
+            "mana": [
+                125,
+                175,
+                250
+            ],
+            "range": [
+                500
+            ],
+            "text": "Viper Strike"
+        },
+        {
+            "cd": [
+                16,
+                14,
+                12,
+                10
+            ],
+            "id": 5480,
+            "mana": [
+                100
+            ],
+            "range": [
+                650
+            ],
+            "text": "Grave Chill"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5482,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Gravekeeper's Cloak"
+        },
+        {
+            "cd": [
+                4
+            ],
+            "id": 5481,
+            "mana": [
+                170,
+                160,
+                150,
+                140
+            ],
+            "range": [
+                900
+            ],
+            "text": "Soul Assumption"
+        },
+        {
+            "cd": [
+                160,
+                145,
+                130
+            ],
+            "id": 5483,
+            "mana": [
+                150
+            ],
+            "range": [
+                0
+            ],
+            "text": "Summon Familiars"
+        },
+        {
+            "cd": [
+                14
+            ],
+            "id": 5484,
+            "mana": [
+                0
+            ],
+            "range": [
+                160
+            ],
+            "text": "Stone Form"
+        },
+        {
+            "cd": [
+                24,
+                22,
+                20,
+                18
+            ],
+            "id": 5162,
+            "mana": [
+                140
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Fatal Bonds"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5166,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Flaming Fists"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5167,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Permanent Immolation"
+        },
+        {
+            "cd": [
+                165
+            ],
+            "id": 5165,
+            "mana": [
+                200,
+                300,
+                400
+            ],
+            "range": [
+                1200
+            ],
+            "text": "Chaotic Offering"
+        },
+        {
+            "cd": [
+                16
+            ],
+            "id": 5163,
+            "mana": [
+                90,
+                110,
+                130,
+                150
+            ],
+            "range": [
+                525,
+                600,
+                675,
+                750
+            ],
+            "text": "Shadow Word"
+        },
+        {
+            "cd": [
+                50,
+                46,
+                42,
+                38
+            ],
+            "id": 5164,
+            "mana": [
+                100,
+                110,
+                120,
+                130
+            ],
+            "range": [
+                1200
+            ],
+            "text": "Upheaval"
+        },
+        {
+            "cd": [
+                7,
+                6,
+                5,
+                3
+            ],
+            "id": 5291,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Geminate Attack"
+        },
+        {
+            "cd": [
+                12,
+                10,
+                8,
+                6
+            ],
+            "id": 5290,
+            "mana": [
+                60
+            ],
+            "range": [
+                0
+            ],
+            "text": "Shukuchi"
+        },
+        {
+            "cd": [
+                35,
+                30,
+                25,
+                20
+            ],
+            "id": 5289,
+            "mana": [
+                70,
+                80,
+                90,
+                100
+            ],
+            "range": [
+                3000
+            ],
+            "text": "The Swarm"
+        },
+        {
+            "cd": [
+                60,
+                50,
+                40
+            ],
+            "id": 5292,
+            "mana": [
+                150,
+                75,
+                0
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Time Lapse"
+        },
+        {
+            "cd": [
+                60
+            ],
+            "id": 5133,
+            "mana": [
+                75,
+                100,
+                125
+            ],
+            "range": [
+                600
+            ],
+            "text": "Focus Fire"
+        },
+        {
+            "cd": [
+                12,
+                11,
+                10,
+                9
+            ],
+            "id": 5131,
+            "mana": [
+                90,
+                100,
+                110,
+                120
+            ],
+            "range": [
+                2600
+            ],
+            "text": "Powershot"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 5130,
+            "mana": [
+                90,
+                100,
+                110,
+                120
+            ],
+            "range": [
+                800
+            ],
+            "text": "Shackleshot"
+        },
+        {
+            "cd": [
+                13
+            ],
+            "id": 5132,
+            "mana": [
+                75
+            ],
+            "range": [
+                0
+            ],
+            "text": "Windrun"
+        },
+        {
+            "cd": [
+                50,
+                40,
+                30,
+                20
+            ],
+            "id": 5651,
+            "mana": [
+                120,
+                110,
+                100,
+                90
+            ],
+            "range": [
+                0
+            ],
+            "text": "Arctic Burn"
+        },
+        {
+            "cd": [
+                24,
+                21,
+                18,
+                15
+            ],
+            "id": 5653,
+            "mana": [
+                75
+            ],
+            "range": [
+                1000
+            ],
+            "text": "Cold Embrace"
+        },
+        {
+            "cd": [
+                7
+            ],
+            "id": 5652,
+            "mana": [
+                120,
+                130,
+                140,
+                150
+            ],
+            "range": [
+                1200
+            ],
+            "text": "Splinter Blast"
+        },
+        {
+            "cd": [
+                80
+            ],
+            "id": 5654,
+            "mana": [
+                250
+            ],
+            "range": [
+                800
+            ],
+            "text": "Winter's Curse"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5498,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Spirits In"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5499,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Spirits Out"
+        },
+        {
+            "cd": [
+                2
+            ],
+            "id": 5487,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Overcharge"
+        },
+        {
+            "cd": [
+                90,
+                75,
+                60
+            ],
+            "id": 5488,
+            "mana": [
+                100
+            ],
+            "range": [
+                0
+            ],
+            "text": "Relocate"
+        },
+        {
+            "cd": [
+                20,
+                18,
+                16,
+                14
+            ],
+            "id": 5486,
+            "mana": [
+                120,
+                130,
+                140,
+                150
+            ],
+            "range": [
+                0
+            ],
+            "text": "Spirits"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5490,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Spirits In"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5493,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Spirits Out"
+        },
+        {
+            "cd": [
+                12
+            ],
+            "id": 5485,
+            "mana": [
+                40
+            ],
+            "range": [
+                1800
+            ],
+            "text": "Tether"
+        },
+        {
+            "cd": [
+                1
+            ],
+            "id": 5489,
+            "mana": [
+                0
+            ],
+            "range": [
+                0
+            ],
+            "text": "Break Tether"
+        },
+        {
+            "cd": [
+                80
+            ],
+            "id": 5141,
+            "mana": [
+                200
+            ],
+            "range": [
+                600
+            ],
+            "text": "Death Ward"
+        },
+        {
+            "cd": [
+                20
+            ],
+            "id": 5140,
+            "mana": [
+                105,
+                110,
+                115,
+                120
+            ],
+            "range": [
+                575
+            ],
+            "text": "Maledict"
+        },
+        {
+            "cd": [
+                20,
+                18,
+                16,
+                14
+            ],
+            "id": 5138,
+            "mana": [
+                110,
+                120,
+                130,
+                140
+            ],
+            "range": [
+                700
+            ],
+            "text": "Paralyzing Cask"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5139,
+            "mana": [
+                20,
+                30,
+                40,
+                50
+            ],
+            "range": [
+                0
+            ],
+            "text": "Voodoo Restoration"
+        },
+        {
+            "cd": [
+                "1.6"
+            ],
+            "id": 5110,
+            "mana": [
+                65,
+                70,
+                75,
+                80
+            ],
+            "range": [
+                850
+            ],
+            "text": "Arc Lightning"
+        },
+        {
+            "cd": [
+                40
+            ],
+            "id": 6325,
+            "mana": [
+                275
+            ],
+            "range": [
+                0
+            ],
+            "text": "Nimbus"
+        },
+        {
+            "cd": [
+                6
+            ],
+            "id": 5111,
+            "mana": [
+                75,
+                95,
+                115,
+                135
+            ],
+            "range": [
+                700
+            ],
+            "text": "Lightning Bolt"
+        },
+        {
+            "cd": [
+                0
+            ],
+            "id": 5112,
+            "mana": [
+                0
+            ],
+            "range": [
+                1200
+            ],
+            "text": "Static Field"
+        },
+        {
+            "cd": [
+                90
+            ],
+            "id": 5113,
+            "mana": [
+                225,
+                325,
+                450
+            ],
+            "range": [
+                0
+            ],
+            "text": "Thundergod's Wrath"
+        }
+    ]
+}

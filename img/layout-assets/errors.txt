@@ -1,0 +1,1 @@
+[Fri Jan 20 2017 18:33:23 GMT+0100 (W. Europe Standard Time)] document "layout.psd": Fonts may render inconsistently and text wrapping is unsupported which can result in clipped text. Convert text to a shape to maintain fidelity.

@@ -1,0 +1,17 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="40" height="30"
+     xmlns="http://www.w3.org/2000/svg">
+    <filter id="dropShadow" x="-50%" width="200%" height="200">
+        <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>
+        <feOffset dx="3" dy="3"/>
+        <feMerge>
+            <feMergeNode/>
+            <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+    </filter>
+    <g filter="url(#dropShadow)">
+        <polyline fill="#141D21" stroke="#0E9595" points="10,0 20,10 30,0" stroke-width="1.1"/>
+        <polyline fill="none" stroke="#111" points="10,2 20,12 30,2" stroke-width="1.1"/>
+    </g>
+</svg>

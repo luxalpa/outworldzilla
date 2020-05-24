@@ -1,0 +1,2178 @@
+{
+    "items": [
+        {
+            "components": [
+                [
+                    143,
+                    125,
+                    207
+                ]
+            ],
+            "id": 208,
+            "isRecipe": false,
+            "name": "item_abyssal_blade",
+            "text": "Abyssal Blade"
+        },
+        {
+            "components": [
+            ],
+            "id": 117,
+            "isRecipe": false,
+            "name": "item_aegis",
+            "text": "Aegis of the Immortal"
+        },
+        {
+            "components": [
+                [
+                    59,
+                    56,
+                    233
+                ]
+            ],
+            "id": 232,
+            "isRecipe": false,
+            "name": "item_aether_lens",
+            "text": "Aether Lens"
+        },
+        {
+            "components": [
+                [
+                    28,
+                    73,
+                    244,
+                    184
+                ],
+                [
+                    185,
+                    184
+                ]
+            ],
+            "id": 185,
+            "isRecipe": false,
+            "name": "item_ancient_janggo",
+            "text": "Drum of Endurance"
+        },
+        {
+            "components": [
+                [
+                    29,
+                    59
+                ]
+            ],
+            "id": 180,
+            "isRecipe": false,
+            "name": "item_arcane_boots",
+            "text": "Arcane Boots"
+        },
+        {
+            "components": [
+                [
+                    6,
+                    25,
+                    2,
+                    150
+                ]
+            ],
+            "id": 151,
+            "isRecipe": false,
+            "name": "item_armlet",
+            "text": "Armlet of Mordiggian"
+        },
+        {
+            "components": [
+                [
+                    9,
+                    55,
+                    4,
+                    111
+                ]
+            ],
+            "id": 112,
+            "isRecipe": false,
+            "name": "item_assault",
+            "text": "Assault Cuirass"
+        },
+        {
+            "components": [
+                [
+                    17,
+                    7,
+                    142
+                ]
+            ],
+            "id": 143,
+            "isRecipe": false,
+            "name": "item_basher",
+            "text": "Skull Basher"
+        },
+        {
+            "components": [
+            ],
+            "id": 17,
+            "isRecipe": false,
+            "name": "item_belt_of_strength",
+            "text": "Belt of Strength"
+        },
+        {
+            "components": [
+                [
+                    3,
+                    5,
+                    69,
+                    11
+                ]
+            ],
+            "id": 145,
+            "isRecipe": false,
+            "name": "item_bfury",
+            "text": "Battle Fury"
+        },
+        {
+            "components": [
+                [
+                    21,
+                    8,
+                    115
+                ]
+            ],
+            "id": 116,
+            "isRecipe": false,
+            "name": "item_black_king_bar",
+            "text": "Black King Bar"
+        },
+        {
+            "components": [
+                [
+                    3,
+                    4,
+                    19
+                ]
+            ],
+            "id": 127,
+            "isRecipe": false,
+            "name": "item_blade_mail",
+            "text": "Blade Mail"
+        },
+        {
+            "components": [
+            ],
+            "id": 22,
+            "isRecipe": false,
+            "name": "item_blade_of_alacrity",
+            "text": "Blade of Alacrity"
+        },
+        {
+            "components": [
+            ],
+            "id": 2,
+            "isRecipe": false,
+            "name": "item_blades_of_attack",
+            "text": "Blades of Attack"
+        },
+        {
+            "components": [
+            ],
+            "id": 240,
+            "isRecipe": false,
+            "name": "item_blight_stone",
+            "text": "Blight Stone"
+        },
+        {
+            "components": [
+            ],
+            "id": 1,
+            "isRecipe": false,
+            "name": "item_blink",
+            "text": "Blink Dagger"
+        },
+        {
+            "components": [
+                [
+                    178,
+                    129,
+                    120
+                ]
+            ],
+            "id": 121,
+            "isRecipe": false,
+            "name": "item_bloodstone",
+            "text": "Bloodstone"
+        },
+        {
+            "components": [
+                [
+                    98,
+                    149,
+                    245
+                ]
+            ],
+            "id": 250,
+            "isRecipe": false,
+            "name": "item_bloodthorn",
+            "text": "Bloodthorn"
+        },
+        {
+            "components": [
+            ],
+            "id": 29,
+            "isRecipe": false,
+            "name": "item_boots",
+            "text": "Boots of Speed"
+        },
+        {
+            "components": [
+            ],
+            "id": 18,
+            "isRecipe": false,
+            "name": "item_boots_of_elves",
+            "text": "Band of Elvenskin"
+        },
+        {
+            "components": [
+            ],
+            "id": 41,
+            "isRecipe": false,
+            "name": "item_bottle",
+            "text": "Bottle"
+        },
+        {
+            "components": [
+                [
+                    20,
+                    13,
+                    72
+                ]
+            ],
+            "id": 73,
+            "isRecipe": false,
+            "name": "item_bracer",
+            "text": "Bracer"
+        },
+        {
+            "components": [
+            ],
+            "id": 16,
+            "isRecipe": false,
+            "name": "item_branches",
+            "text": "Iron Branch"
+        },
+        {
+            "components": [
+            ],
+            "id": 3,
+            "isRecipe": false,
+            "name": "item_broadsword",
+            "text": "Broadsword"
+        },
+        {
+            "components": [
+                [
+                    4,
+                    16,
+                    85
+                ]
+            ],
+            "id": 86,
+            "isRecipe": false,
+            "name": "item_buckler",
+            "text": "Buckler"
+        },
+        {
+            "components": [
+                [
+                    52,
+                    32,
+                    10
+                ]
+            ],
+            "id": 139,
+            "isRecipe": false,
+            "name": "item_butterfly",
+            "text": "Butterfly"
+        },
+        {
+            "components": [
+            ],
+            "id": 4,
+            "isRecipe": false,
+            "name": "item_chainmail",
+            "text": "Chainmail"
+        },
+        {
+            "components": [
+            ],
+            "id": 33,
+            "isRecipe": false,
+            "name": "item_cheese",
+            "text": "Cheese"
+        },
+        {
+            "components": [
+            ],
+            "id": 20,
+            "isRecipe": false,
+            "name": "item_circlet",
+            "text": "Circlet"
+        },
+        {
+            "components": [
+            ],
+            "id": 38,
+            "isRecipe": false,
+            "name": "item_clarity",
+            "text": "Clarity"
+        },
+        {
+            "components": [
+            ],
+            "id": 5,
+            "isRecipe": false,
+            "name": "item_claymore",
+            "text": "Claymore"
+        },
+        {
+            "components": [
+            ],
+            "id": 31,
+            "isRecipe": false,
+            "name": "item_cloak",
+            "text": "Cloak"
+        },
+        {
+            "components": [
+            ],
+            "id": 45,
+            "isRecipe": false,
+            "name": "item_courier",
+            "text": "Animal Courier"
+        },
+        {
+            "components": [
+                [
+                    125,
+                    86,
+                    243
+                ]
+            ],
+            "id": 242,
+            "isRecipe": false,
+            "name": "item_crimson_guard",
+            "text": "Crimson Guard"
+        },
+        {
+            "components": [
+                [
+                    23,
+                    57,
+                    244,
+                    99
+                ]
+            ],
+            "id": 100,
+            "isRecipe": false,
+            "name": "item_cyclone",
+            "text": "Eul's Scepter of Divinity"
+        },
+        {
+            "components": [
+                [
+                    23,
+                    77,
+                    103
+                ]
+            ],
+            "id": 104,
+            "isRecipe": false,
+            "name": "item_dagon",
+            "text": "Dagon"
+        },
+        {
+            "components": [
+                [
+                    104,
+                    103
+                ]
+            ],
+            "id": 201,
+            "isRecipe": false,
+            "name": "item_dagon_2",
+            "text": "Dagon (level 2)"
+        },
+        {
+            "components": [
+                [
+                    201,
+                    103
+                ]
+            ],
+            "id": 202,
+            "isRecipe": false,
+            "name": "item_dagon_3",
+            "text": "Dagon (level 3)"
+        },
+        {
+            "components": [
+                [
+                    202,
+                    103
+                ]
+            ],
+            "id": 203,
+            "isRecipe": false,
+            "name": "item_dagon_4",
+            "text": "Dagon (level 4)"
+        },
+        {
+            "components": [
+                [
+                    203,
+                    103
+                ]
+            ],
+            "id": 204,
+            "isRecipe": false,
+            "name": "item_dagon_5",
+            "text": "Dagon (level 5)"
+        },
+        {
+            "components": [
+            ],
+            "id": 51,
+            "isRecipe": false,
+            "name": "item_demon_edge",
+            "text": "Demon Edge"
+        },
+        {
+            "components": [
+                [
+                    8,
+                    8,
+                    240
+                ]
+            ],
+            "id": 168,
+            "isRecipe": false,
+            "name": "item_desolator",
+            "text": "Desolator"
+        },
+        {
+            "components": [
+                [
+                    22,
+                    22,
+                    19,
+                    173
+                ]
+            ],
+            "id": 174,
+            "isRecipe": false,
+            "name": "item_diffusal_blade",
+            "text": "Diffusal Blade"
+        },
+        {
+            "components": [
+                [
+                    174,
+                    173
+                ]
+            ],
+            "id": 196,
+            "isRecipe": false,
+            "name": "item_diffusal_blade_2",
+            "text": "Diffusal Blade (level 2)"
+        },
+        {
+            "components": [
+                [
+                    21,
+                    18,
+                    18
+                ]
+            ],
+            "id": 236,
+            "isRecipe": false,
+            "name": "item_dragon_lance",
+            "text": "Dragon Lance"
+        },
+        {
+            "components": [
+            ],
+            "id": 40,
+            "isRecipe": false,
+            "name": "item_dust",
+            "text": "Dust of Appearance"
+        },
+        {
+            "components": [
+            ],
+            "id": 52,
+            "isRecipe": false,
+            "name": "item_eagle",
+            "text": "Eaglesong"
+        },
+        {
+            "components": [
+                [
+                    21,
+                    67
+                ]
+            ],
+            "id": 252,
+            "isRecipe": false,
+            "name": "item_echo_sabre",
+            "text": "Echo Sabre"
+        },
+        {
+            "components": [
+            ],
+            "id": 216,
+            "isRecipe": false,
+            "name": "item_enchanted_mango",
+            "text": "Enchanted Mango"
+        },
+        {
+            "components": [
+            ],
+            "id": 59,
+            "isRecipe": false,
+            "name": "item_energy_booster",
+            "text": "Energy Booster"
+        },
+        {
+            "components": [
+                [
+                    52,
+                    37
+                ]
+            ],
+            "id": 176,
+            "isRecipe": false,
+            "name": "item_ethereal_blade",
+            "text": "Ethereal Blade"
+        },
+        {
+            "components": [
+            ],
+            "id": 237,
+            "isRecipe": false,
+            "name": "item_faerie_fire",
+            "text": "Faerie Fire"
+        },
+        {
+            "components": [
+            ],
+            "id": 39,
+            "isRecipe": false,
+            "name": "item_flask",
+            "text": "Healing Salve"
+        },
+        {
+            "components": [
+            ],
+            "id": 84,
+            "isRecipe": false,
+            "name": "item_flying_courier",
+            "text": "Flying Courier"
+        },
+        {
+            "components": [
+                [
+                    23,
+                    27,
+                    101
+                ]
+            ],
+            "id": 102,
+            "isRecipe": false,
+            "name": "item_force_staff",
+            "text": "Force Staff"
+        },
+        {
+            "components": [
+            ],
+            "id": 13,
+            "isRecipe": false,
+            "name": "item_gauntlets",
+            "text": "Gauntlets of Strength"
+        },
+        {
+            "components": [
+            ],
+            "id": 30,
+            "isRecipe": false,
+            "name": "item_gem",
+            "text": "Gem of True Sight"
+        },
+        {
+            "components": [
+            ],
+            "id": 37,
+            "isRecipe": false,
+            "name": "item_ghost",
+            "text": "Ghost Scepter"
+        },
+        {
+            "components": [
+                [
+                    215,
+                    31
+                ]
+            ],
+            "id": 254,
+            "isRecipe": false,
+            "name": "item_glimmer_cape",
+            "text": "Glimmer Cape"
+        },
+        {
+            "components": [
+            ],
+            "id": 25,
+            "isRecipe": false,
+            "name": "item_gloves",
+            "text": "Gloves of Haste"
+        },
+        {
+            "components": [
+                [
+                    149,
+                    51,
+                    140
+                ]
+            ],
+            "id": 141,
+            "isRecipe": false,
+            "name": "item_greater_crit",
+            "text": "Daedalus"
+        },
+        {
+            "components": [
+                [
+                    79,
+                    180,
+                    230
+                ]
+            ],
+            "id": 231,
+            "isRecipe": false,
+            "name": "item_guardian_greaves",
+            "text": "Guardian Greaves"
+        },
+        {
+            "components": [
+                [
+                    25,
+                    64
+                ]
+            ],
+            "id": 65,
+            "isRecipe": false,
+            "name": "item_hand_of_midas",
+            "text": "Hand of Midas"
+        },
+        {
+            "components": [
+                [
+                    27,
+                    16,
+                    93
+                ]
+            ],
+            "id": 94,
+            "isRecipe": false,
+            "name": "item_headdress",
+            "text": "Headdress"
+        },
+        {
+            "components": [
+                [
+                    53,
+                    61,
+                    113
+                ]
+            ],
+            "id": 114,
+            "isRecipe": false,
+            "name": "item_heart",
+            "text": "Heart of Tarrasque"
+        },
+        {
+            "components": [
+                [
+                    162,
+                    32
+                ]
+            ],
+            "id": 210,
+            "isRecipe": false,
+            "name": "item_heavens_halberd",
+            "text": "Heaven's Halberd"
+        },
+        {
+            "components": [
+            ],
+            "id": 6,
+            "isRecipe": false,
+            "name": "item_helm_of_iron_will",
+            "text": "Helm of Iron Will"
+        },
+        {
+            "components": [
+                [
+                    25,
+                    94,
+                    163
+                ]
+            ],
+            "id": 164,
+            "isRecipe": false,
+            "name": "item_helm_of_the_dominator",
+            "text": "Helm of the Dominator"
+        },
+        {
+            "components": [
+                [
+                    56,
+                    31,
+                    27
+                ]
+            ],
+            "id": 131,
+            "isRecipe": false,
+            "name": "item_hood_of_defiance",
+            "text": "Hood of Defiance"
+        },
+        {
+            "components": [
+                [
+                    102,
+                    236,
+                    262
+                ]
+            ],
+            "id": 263,
+            "isRecipe": false,
+            "name": "item_hurricane_pike",
+            "text": "Hurricane Pike"
+        },
+        {
+            "components": [
+            ],
+            "id": 55,
+            "isRecipe": false,
+            "name": "item_hyperstone",
+            "text": "Hyperstone"
+        },
+        {
+            "components": [
+            ],
+            "id": 265,
+            "isRecipe": false,
+            "name": "item_infused_raindrop",
+            "text": "Infused Raindrop"
+        },
+        {
+            "components": [
+                [
+                    215,
+                    5
+                ]
+            ],
+            "id": 152,
+            "isRecipe": false,
+            "name": "item_invis_sword",
+            "text": "Shadow Blade"
+        },
+        {
+            "components": [
+                [
+                    11,
+                    12,
+                    238
+                ]
+            ],
+            "id": 239,
+            "isRecipe": false,
+            "name": "item_iron_talon",
+            "text": "Iron Talon"
+        },
+        {
+            "components": [
+            ],
+            "id": 7,
+            "isRecipe": false,
+            "name": "item_javelin",
+            "text": "Javelin"
+        },
+        {
+            "components": [
+                [
+                    3,
+                    2,
+                    148
+                ]
+            ],
+            "id": 149,
+            "isRecipe": false,
+            "name": "item_lesser_crit",
+            "text": "Crystalys"
+        },
+        {
+            "components": [
+            ],
+            "id": 26,
+            "isRecipe": false,
+            "name": "item_lifesteal",
+            "text": "Morbid Mask"
+        },
+        {
+            "components": [
+                [
+                    69,
+                    9,
+                    59
+                ]
+            ],
+            "id": 226,
+            "isRecipe": false,
+            "name": "item_lotus_orb",
+            "text": "Lotus Orb"
+        },
+        {
+            "components": [
+                [
+                    8,
+                    25,
+                    165
+                ]
+            ],
+            "id": 166,
+            "isRecipe": false,
+            "name": "item_maelstrom",
+            "text": "Maelstrom"
+        },
+        {
+            "components": [
+            ],
+            "id": 34,
+            "isRecipe": false,
+            "name": "item_magic_stick",
+            "text": "Magic Stick"
+        },
+        {
+            "components": [
+                [
+                    20,
+                    16,
+                    16,
+                    34
+                ]
+            ],
+            "id": 36,
+            "isRecipe": false,
+            "name": "item_magic_wand",
+            "text": "Magic Wand"
+        },
+        {
+            "components": [
+                [
+                    170,
+                    24,
+                    146
+                ]
+            ],
+            "id": 147,
+            "isRecipe": false,
+            "name": "item_manta",
+            "text": "Manta Style"
+        },
+        {
+            "components": [
+            ],
+            "id": 15,
+            "isRecipe": false,
+            "name": "item_mantle",
+            "text": "Mantle of Intelligence"
+        },
+        {
+            "components": [
+                [
+                    26,
+                    171
+                ]
+            ],
+            "id": 172,
+            "isRecipe": false,
+            "name": "item_mask_of_madness",
+            "text": "Mask of Madness"
+        },
+        {
+            "components": [
+                [
+                    4,
+                    28,
+                    240
+                ]
+            ],
+            "id": 187,
+            "isRecipe": false,
+            "name": "item_medallion_of_courage",
+            "text": "Medallion of Courage"
+        },
+        {
+            "components": [
+                [
+                    94,
+                    86,
+                    78
+                ]
+            ],
+            "id": 79,
+            "isRecipe": false,
+            "name": "item_mekansm",
+            "text": "Mekansm"
+        },
+        {
+            "components": [
+            ],
+            "id": 8,
+            "isRecipe": false,
+            "name": "item_mithril_hammer",
+            "text": "Mithril Hammer"
+        },
+        {
+            "components": [
+                [
+                    166,
+                    55,
+                    157
+                ]
+            ],
+            "id": 158,
+            "isRecipe": false,
+            "name": "item_mjollnir",
+            "text": "Mjollnir"
+        },
+        {
+            "components": [
+                [
+                    51,
+                    7,
+                    7
+                ]
+            ],
+            "id": 135,
+            "isRecipe": false,
+            "name": "item_monkey_king_bar",
+            "text": "Monkey King Bar"
+        },
+        {
+            "components": [
+                [
+                    55,
+                    55
+                ]
+            ],
+            "id": 247,
+            "isRecipe": false,
+            "name": "item_moon_shard",
+            "text": "Moon Shard"
+        },
+        {
+            "components": [
+            ],
+            "id": 58,
+            "isRecipe": false,
+            "name": "item_mystic_staff",
+            "text": "Mystic Staff"
+        },
+        {
+            "components": [
+                [
+                    23,
+                    17,
+                    105
+                ]
+            ],
+            "id": 106,
+            "isRecipe": false,
+            "name": "item_necronomicon",
+            "text": "Necronomicon"
+        },
+        {
+            "components": [
+                [
+                    106,
+                    105
+                ]
+            ],
+            "id": 193,
+            "isRecipe": false,
+            "name": "item_necronomicon_2",
+            "text": "Necronomicon (level 2)"
+        },
+        {
+            "components": [
+                [
+                    193,
+                    105
+                ]
+            ],
+            "id": 194,
+            "isRecipe": false,
+            "name": "item_necronomicon_3",
+            "text": "Necronomicon (level 3)"
+        },
+        {
+            "components": [
+                [
+                    20,
+                    15,
+                    76
+                ]
+            ],
+            "id": 77,
+            "isRecipe": false,
+            "name": "item_null_talisman",
+            "text": "Null Talisman"
+        },
+        {
+            "components": [
+                [
+                    10,
+                    28,
+                    19
+                ]
+            ],
+            "id": 67,
+            "isRecipe": false,
+            "name": "item_oblivion_staff",
+            "text": "Oblivion Staff"
+        },
+        {
+            "components": [
+                [
+                    58,
+                    129
+                ]
+            ],
+            "id": 235,
+            "isRecipe": false,
+            "name": "item_octarine_core",
+            "text": "Octarine Core"
+        },
+        {
+            "components": [
+            ],
+            "id": 21,
+            "isRecipe": false,
+            "name": "item_ogre_axe",
+            "text": "Ogre Club"
+        },
+        {
+            "components": [
+            ],
+            "id": 181,
+            "isRecipe": false,
+            "name": "item_orb_of_venom",
+            "text": "Orb of Venom"
+        },
+        {
+            "components": [
+                [
+                    67,
+                    67,
+                    97
+                ]
+            ],
+            "id": 98,
+            "isRecipe": false,
+            "name": "item_orchid",
+            "text": "Orchid Malevolence"
+        },
+        {
+            "components": [
+                [
+                    56,
+                    57
+                ]
+            ],
+            "id": 69,
+            "isRecipe": false,
+            "name": "item_pers",
+            "text": "Perseverance"
+        },
+        {
+            "components": [
+                [
+                    29,
+                    2,
+                    2
+                ]
+            ],
+            "id": 50,
+            "isRecipe": false,
+            "name": "item_phase_boots",
+            "text": "Phase Boots"
+        },
+        {
+            "components": [
+                [
+                    131,
+                    94,
+                    89
+                ]
+            ],
+            "id": 90,
+            "isRecipe": false,
+            "name": "item_pipe",
+            "text": "Pipe of Insight"
+        },
+        {
+            "components": [
+            ],
+            "id": 9,
+            "isRecipe": false,
+            "name": "item_platemail",
+            "text": "Platemail"
+        },
+        {
+            "components": [
+            ],
+            "id": 60,
+            "isRecipe": false,
+            "name": "item_point_booster",
+            "text": "Point Booster"
+        },
+        {
+            "components": [
+                [
+                    14,
+                    14,
+                    182
+                ]
+            ],
+            "id": 71,
+            "isRecipe": false,
+            "name": "item_poor_mans_shield",
+            "text": "Poor Man's Shield"
+        },
+        {
+            "components": [
+                [
+                    29,
+                    25,
+                    17
+                ],
+                [
+                    29,
+                    25,
+                    19
+                ],
+                [
+                    29,
+                    25,
+                    18
+                ]
+            ],
+            "id": 63,
+            "isRecipe": false,
+            "name": "item_power_treads",
+            "text": "Power Treads"
+        },
+        {
+            "components": [
+            ],
+            "id": 10,
+            "isRecipe": false,
+            "name": "item_quarterstaff",
+            "text": "Quarterstaff"
+        },
+        {
+            "components": [
+            ],
+            "id": 11,
+            "isRecipe": false,
+            "name": "item_quelling_blade",
+            "text": "Quelling Blade"
+        },
+        {
+            "components": [
+                [
+                    54,
+                    136
+                ]
+            ],
+            "id": 137,
+            "isRecipe": false,
+            "name": "item_radiance",
+            "text": "Radiance"
+        },
+        {
+            "components": [
+                [
+                    54,
+                    51
+                ]
+            ],
+            "id": 133,
+            "isRecipe": false,
+            "name": "item_rapier",
+            "text": "Divine Rapier"
+        },
+        {
+            "components": [
+            ],
+            "id": 53,
+            "isRecipe": false,
+            "name": "item_reaver",
+            "text": "Reaver"
+        },
+        {
+            "components": [
+            ],
+            "id": 207,
+            "isRecipe": true,
+            "name": "item_recipe_abyssal_blade",
+            "text": "Recipe: Abyssal Blade"
+        },
+        {
+            "components": [
+            ],
+            "id": 233,
+            "isRecipe": true,
+            "name": "item_recipe_aether_lens",
+            "text": "Recipe: Aether Lens"
+        },
+        {
+            "components": [
+            ],
+            "id": 184,
+            "isRecipe": true,
+            "name": "item_recipe_ancient_janggo",
+            "text": "Recipe: Drum of Endurance"
+        },
+        {
+            "components": [
+            ],
+            "id": 150,
+            "isRecipe": true,
+            "name": "item_recipe_armlet",
+            "text": "Recipe: Armlet of Mordiggian"
+        },
+        {
+            "components": [
+            ],
+            "id": 111,
+            "isRecipe": true,
+            "name": "item_recipe_assault",
+            "text": "Recipe: Assault Cuirass"
+        },
+        {
+            "components": [
+            ],
+            "id": 142,
+            "isRecipe": true,
+            "name": "item_recipe_basher",
+            "text": "Recipe: Skull Basher"
+        },
+        {
+            "components": [
+            ],
+            "id": 115,
+            "isRecipe": true,
+            "name": "item_recipe_black_king_bar",
+            "text": "Recipe: Black King Bar"
+        },
+        {
+            "components": [
+            ],
+            "id": 120,
+            "isRecipe": true,
+            "name": "item_recipe_bloodstone",
+            "text": "Recipe: Bloodstone"
+        },
+        {
+            "components": [
+            ],
+            "id": 245,
+            "isRecipe": true,
+            "name": "item_recipe_bloodthorn",
+            "text": "Recipe: Bloodthorn"
+        },
+        {
+            "components": [
+            ],
+            "id": 72,
+            "isRecipe": true,
+            "name": "item_recipe_bracer",
+            "text": "Recipe: Bracer"
+        },
+        {
+            "components": [
+            ],
+            "id": 85,
+            "isRecipe": true,
+            "name": "item_recipe_buckler",
+            "text": "Recipe: Buckler"
+        },
+        {
+            "components": [
+            ],
+            "id": 243,
+            "isRecipe": true,
+            "name": "item_recipe_crimson_guard",
+            "text": "Recipe: Crimson Guard"
+        },
+        {
+            "components": [
+            ],
+            "id": 99,
+            "isRecipe": true,
+            "name": "item_recipe_cyclone",
+            "text": "Recipe: Eul's Scepter of Divinity"
+        },
+        {
+            "components": [
+            ],
+            "id": 103,
+            "isRecipe": true,
+            "name": "item_recipe_dagon",
+            "text": "Recipe: Dagon"
+        },
+        {
+            "components": [
+            ],
+            "id": 173,
+            "isRecipe": true,
+            "name": "item_recipe_diffusal_blade",
+            "text": "Recipe: Diffusal Blade"
+        },
+        {
+            "components": [
+            ],
+            "id": 101,
+            "isRecipe": true,
+            "name": "item_recipe_force_staff",
+            "text": "Recipe: Force Staff"
+        },
+        {
+            "components": [
+            ],
+            "id": 140,
+            "isRecipe": true,
+            "name": "item_recipe_greater_crit",
+            "text": "Recipe: Daedalus"
+        },
+        {
+            "components": [
+            ],
+            "id": 230,
+            "isRecipe": true,
+            "name": "item_recipe_guardian_greaves",
+            "text": "Recipe: Guardian Greaves"
+        },
+        {
+            "components": [
+            ],
+            "id": 64,
+            "isRecipe": true,
+            "name": "item_recipe_hand_of_midas",
+            "text": "Recipe: Hand of Midas"
+        },
+        {
+            "components": [
+            ],
+            "id": 93,
+            "isRecipe": true,
+            "name": "item_recipe_headdress",
+            "text": "Recipe: Headdress"
+        },
+        {
+            "components": [
+            ],
+            "id": 113,
+            "isRecipe": true,
+            "name": "item_recipe_heart",
+            "text": "Recipe: Heart of Tarrasque"
+        },
+        {
+            "components": [
+            ],
+            "id": 163,
+            "isRecipe": true,
+            "name": "item_recipe_helm_of_the_dominator",
+            "text": "Recipe: Helm of the Dominator"
+        },
+        {
+            "components": [
+            ],
+            "id": 262,
+            "isRecipe": true,
+            "name": "item_recipe_hurricane_pike",
+            "text": "Recipe: Hurricane Pike"
+        },
+        {
+            "components": [
+            ],
+            "id": 238,
+            "isRecipe": true,
+            "name": "item_recipe_iron_talon",
+            "text": "Recipe: Iron Talon"
+        },
+        {
+            "components": [
+            ],
+            "id": 148,
+            "isRecipe": true,
+            "name": "item_recipe_lesser_crit",
+            "text": "Recipe: Crystalys"
+        },
+        {
+            "components": [
+            ],
+            "id": 165,
+            "isRecipe": true,
+            "name": "item_recipe_maelstrom",
+            "text": "Recipe: Maelstrom"
+        },
+        {
+            "components": [
+            ],
+            "id": 146,
+            "isRecipe": true,
+            "name": "item_recipe_manta",
+            "text": "Recipe: Manta Style"
+        },
+        {
+            "components": [
+            ],
+            "id": 171,
+            "isRecipe": true,
+            "name": "item_recipe_mask_of_madness",
+            "text": "Recipe: Mask of Madness"
+        },
+        {
+            "components": [
+            ],
+            "id": 78,
+            "isRecipe": true,
+            "name": "item_recipe_mekansm",
+            "text": "Recipe: Mekansm"
+        },
+        {
+            "components": [
+            ],
+            "id": 157,
+            "isRecipe": true,
+            "name": "item_recipe_mjollnir",
+            "text": "Recipe: Mjollnir"
+        },
+        {
+            "components": [
+            ],
+            "id": 105,
+            "isRecipe": true,
+            "name": "item_recipe_necronomicon",
+            "text": "Recipe: Necronomicon"
+        },
+        {
+            "components": [
+            ],
+            "id": 76,
+            "isRecipe": true,
+            "name": "item_recipe_null_talisman",
+            "text": "Recipe: Null Talisman"
+        },
+        {
+            "components": [
+            ],
+            "id": 97,
+            "isRecipe": true,
+            "name": "item_recipe_orchid",
+            "text": "Recipe: Orchid Malevolence"
+        },
+        {
+            "components": [
+            ],
+            "id": 89,
+            "isRecipe": true,
+            "name": "item_recipe_pipe",
+            "text": "Recipe: Pipe of Insight"
+        },
+        {
+            "components": [
+            ],
+            "id": 136,
+            "isRecipe": true,
+            "name": "item_recipe_radiance",
+            "text": "Recipe: Radiance"
+        },
+        {
+            "components": [
+            ],
+            "id": 109,
+            "isRecipe": true,
+            "name": "item_recipe_refresher",
+            "text": "Recipe: Refresher Orb"
+        },
+        {
+            "components": [
+            ],
+            "id": 161,
+            "isRecipe": true,
+            "name": "item_recipe_sange",
+            "text": "Recipe: Sange"
+        },
+        {
+            "components": [
+            ],
+            "id": 118,
+            "isRecipe": true,
+            "name": "item_recipe_shivas_guard",
+            "text": "Recipe: Shiva's Guard"
+        },
+        {
+            "components": [
+            ],
+            "id": 248,
+            "isRecipe": true,
+            "name": "item_recipe_silver_edge",
+            "text": "Recipe: Silver Edge"
+        },
+        {
+            "components": [
+            ],
+            "id": 177,
+            "isRecipe": true,
+            "name": "item_recipe_soul_ring",
+            "text": "Recipe: Soul Ring"
+        },
+        {
+            "components": [
+            ],
+            "id": 122,
+            "isRecipe": true,
+            "name": "item_recipe_sphere",
+            "text": "Recipe: Linken's Sphere"
+        },
+        {
+            "components": [
+            ],
+            "id": 47,
+            "isRecipe": true,
+            "name": "item_recipe_travel_boots",
+            "text": "Recipe: Boots of Travel"
+        },
+        {
+            "components": [
+            ],
+            "id": 91,
+            "isRecipe": true,
+            "name": "item_recipe_urn_of_shadows",
+            "text": "Recipe: Urn of Shadows"
+        },
+        {
+            "components": [
+            ],
+            "id": 189,
+            "isRecipe": true,
+            "name": "item_recipe_veil_of_discord",
+            "text": "Recipe: Veil of Discord"
+        },
+        {
+            "components": [
+            ],
+            "id": 74,
+            "isRecipe": true,
+            "name": "item_recipe_wraith_band",
+            "text": "Recipe: Wraith Band"
+        },
+        {
+            "components": [
+            ],
+            "id": 169,
+            "isRecipe": true,
+            "name": "item_recipe_yasha",
+            "text": "Recipe: Yasha"
+        },
+        {
+            "components": [
+                [
+                    69,
+                    69,
+                    109
+                ]
+            ],
+            "id": 110,
+            "isRecipe": false,
+            "name": "item_refresher",
+            "text": "Refresher Orb"
+        },
+        {
+            "components": [
+            ],
+            "id": 54,
+            "isRecipe": false,
+            "name": "item_relic",
+            "text": "Sacred Relic"
+        },
+        {
+            "components": [
+                [
+                    75,
+                    88
+                ]
+            ],
+            "id": 212,
+            "isRecipe": false,
+            "name": "item_ring_of_aquila",
+            "text": "Ring of Aquila"
+        },
+        {
+            "components": [
+                [
+                    28,
+                    12
+                ]
+            ],
+            "id": 88,
+            "isRecipe": false,
+            "name": "item_ring_of_basilius",
+            "text": "Ring of Basilius"
+        },
+        {
+            "components": [
+            ],
+            "id": 56,
+            "isRecipe": false,
+            "name": "item_ring_of_health",
+            "text": "Ring of Health"
+        },
+        {
+            "components": [
+            ],
+            "id": 12,
+            "isRecipe": false,
+            "name": "item_ring_of_protection",
+            "text": "Ring of Protection"
+        },
+        {
+            "components": [
+            ],
+            "id": 27,
+            "isRecipe": false,
+            "name": "item_ring_of_regen",
+            "text": "Ring of Regen"
+        },
+        {
+            "components": [
+            ],
+            "id": 1021,
+            "isRecipe": false,
+            "name": "item_river_painter",
+            "text": "River Vial: Chrome"
+        },
+        {
+            "components": [
+            ],
+            "id": 1022,
+            "isRecipe": false,
+            "name": "item_river_painter2",
+            "text": "River Vial: Dry"
+        },
+        {
+            "components": [
+            ],
+            "id": 1023,
+            "isRecipe": false,
+            "name": "item_river_painter3",
+            "text": "River Vial: Slime"
+        },
+        {
+            "components": [
+            ],
+            "id": 1024,
+            "isRecipe": false,
+            "name": "item_river_painter4",
+            "text": "River Vial: Oil"
+        },
+        {
+            "components": [
+            ],
+            "id": 1025,
+            "isRecipe": false,
+            "name": "item_river_painter5",
+            "text": "River Vial: Electrified"
+        },
+        {
+            "components": [
+            ],
+            "id": 1026,
+            "isRecipe": false,
+            "name": "item_river_painter6",
+            "text": "River Vial: Potion"
+        },
+        {
+            "components": [
+            ],
+            "id": 1027,
+            "isRecipe": false,
+            "name": "item_river_painter7",
+            "text": "River Vial: Blood"
+        },
+        {
+            "components": [
+            ],
+            "id": 19,
+            "isRecipe": false,
+            "name": "item_robe",
+            "text": "Robe of the Magi"
+        },
+        {
+            "components": [
+                [
+                    61,
+                    23,
+                    23
+                ]
+            ],
+            "id": 206,
+            "isRecipe": false,
+            "name": "item_rod_of_atos",
+            "text": "Rod of Atos"
+        },
+        {
+            "components": [
+                [
+                    21,
+                    17,
+                    161
+                ]
+            ],
+            "id": 162,
+            "isRecipe": false,
+            "name": "item_sange",
+            "text": "Sange"
+        },
+        {
+            "components": [
+                [
+                    170,
+                    162
+                ]
+            ],
+            "id": 154,
+            "isRecipe": false,
+            "name": "item_sange_and_yasha",
+            "text": "Sange and Yasha"
+        },
+        {
+            "components": [
+                [
+                    26,
+                    8,
+                    53
+                ]
+            ],
+            "id": 156,
+            "isRecipe": false,
+            "name": "item_satanic",
+            "text": "Satanic"
+        },
+        {
+            "components": [
+            ],
+            "id": 215,
+            "isRecipe": false,
+            "name": "item_shadow_amulet",
+            "text": "Shadow Amulet"
+        },
+        {
+            "components": [
+                [
+                    58,
+                    24,
+                    57
+                ]
+            ],
+            "id": 96,
+            "isRecipe": false,
+            "name": "item_sheepstick",
+            "text": "Scythe of Vyse"
+        },
+        {
+            "components": [
+                [
+                    9,
+                    58,
+                    118
+                ]
+            ],
+            "id": 119,
+            "isRecipe": false,
+            "name": "item_shivas_guard",
+            "text": "Shiva's Guard"
+        },
+        {
+            "components": [
+                [
+                    152,
+                    24,
+                    248
+                ]
+            ],
+            "id": 249,
+            "isRecipe": false,
+            "name": "item_silver_edge",
+            "text": "Silver Edge"
+        },
+        {
+            "components": [
+                [
+                    24,
+                    24,
+                    60,
+                    181
+                ]
+            ],
+            "id": 160,
+            "isRecipe": false,
+            "name": "item_skadi",
+            "text": "Eye of Skadi"
+        },
+        {
+            "components": [
+            ],
+            "id": 14,
+            "isRecipe": false,
+            "name": "item_slippers",
+            "text": "Slippers of Agility"
+        },
+        {
+            "components": [
+            ],
+            "id": 188,
+            "isRecipe": false,
+            "name": "item_smoke_of_deceit",
+            "text": "Smoke of Deceit"
+        },
+        {
+            "components": [
+            ],
+            "id": 28,
+            "isRecipe": false,
+            "name": "item_sobi_mask",
+            "text": "Sage's Mask"
+        },
+        {
+            "components": [
+                [
+                    187,
+                    32
+                ]
+            ],
+            "id": 229,
+            "isRecipe": false,
+            "name": "item_solar_crest",
+            "text": "Solar Crest"
+        },
+        {
+            "components": [
+                [
+                    61,
+                    59,
+                    60
+                ]
+            ],
+            "id": 129,
+            "isRecipe": false,
+            "name": "item_soul_booster",
+            "text": "Soul Booster"
+        },
+        {
+            "components": [
+                [
+                    27,
+                    28,
+                    177
+                ]
+            ],
+            "id": 178,
+            "isRecipe": false,
+            "name": "item_soul_ring",
+            "text": "Soul Ring"
+        },
+        {
+            "components": [
+                [
+                    24,
+                    69,
+                    122
+                ]
+            ],
+            "id": 123,
+            "isRecipe": false,
+            "name": "item_sphere",
+            "text": "Linken's Sphere"
+        },
+        {
+            "components": [
+            ],
+            "id": 23,
+            "isRecipe": false,
+            "name": "item_staff_of_wizardry",
+            "text": "Staff of Wizardry"
+        },
+        {
+            "components": [
+            ],
+            "id": 182,
+            "isRecipe": false,
+            "name": "item_stout_shield",
+            "text": "Stout Shield"
+        },
+        {
+            "components": [
+            ],
+            "id": 32,
+            "isRecipe": false,
+            "name": "item_talisman_of_evasion",
+            "text": "Talisman of Evasion"
+        },
+        {
+            "components": [
+            ],
+            "id": 44,
+            "isRecipe": false,
+            "name": "item_tango",
+            "text": "Tango"
+        },
+        {
+            "components": [
+            ],
+            "id": 241,
+            "isRecipe": false,
+            "name": "item_tango_single",
+            "text": "Tango (Shared)"
+        },
+        {
+            "components": [
+            ],
+            "id": 257,
+            "isRecipe": false,
+            "name": "item_tome_of_knowledge",
+            "text": "Tome of Knowledge"
+        },
+        {
+            "components": [
+            ],
+            "id": 46,
+            "isRecipe": false,
+            "name": "item_tpscroll",
+            "text": "Town Portal Scroll"
+        },
+        {
+            "components": [
+                [
+                    29,
+                    12,
+                    27
+                ]
+            ],
+            "id": 214,
+            "isRecipe": false,
+            "name": "item_tranquil_boots",
+            "text": "Tranquil Boots"
+        },
+        {
+            "components": [
+                [
+                    29,
+                    47
+                ]
+            ],
+            "id": 48,
+            "isRecipe": false,
+            "name": "item_travel_boots",
+            "text": "Boots of Travel"
+        },
+        {
+            "components": [
+                [
+                    48,
+                    47
+                ]
+            ],
+            "id": 220,
+            "isRecipe": false,
+            "name": "item_travel_boots_2",
+            "text": "Boots of Travel"
+        },
+        {
+            "components": [
+            ],
+            "id": 24,
+            "isRecipe": false,
+            "name": "item_ultimate_orb",
+            "text": "Ultimate Orb"
+        },
+        {
+            "components": [
+                [
+                    60,
+                    23,
+                    21,
+                    22
+                ]
+            ],
+            "id": 108,
+            "isRecipe": false,
+            "name": "item_ultimate_scepter",
+            "text": "Aghanim's Scepter"
+        },
+        {
+            "components": [
+                [
+                    28,
+                    13,
+                    13,
+                    91
+                ]
+            ],
+            "id": 92,
+            "isRecipe": false,
+            "name": "item_urn_of_shadows",
+            "text": "Urn of Shadows"
+        },
+        {
+            "components": [
+                [
+                    56,
+                    61,
+                    182
+                ]
+            ],
+            "id": 125,
+            "isRecipe": false,
+            "name": "item_vanguard",
+            "text": "Vanguard"
+        },
+        {
+            "components": [
+                [
+                    6,
+                    77,
+                    77,
+                    189
+                ]
+            ],
+            "id": 190,
+            "isRecipe": false,
+            "name": "item_veil_of_discord",
+            "text": "Veil of Discord"
+        },
+        {
+            "components": [
+            ],
+            "id": 61,
+            "isRecipe": false,
+            "name": "item_vitality_booster",
+            "text": "Vitality Booster"
+        },
+        {
+            "components": [
+                [
+                    94,
+                    88,
+                    26
+                ]
+            ],
+            "id": 81,
+            "isRecipe": false,
+            "name": "item_vladmir",
+            "text": "Vladmir's Offering"
+        },
+        {
+            "components": [
+            ],
+            "id": 57,
+            "isRecipe": false,
+            "name": "item_void_stone",
+            "text": "Void Stone"
+        },
+        {
+            "components": [
+                [
+                    43,
+                    42
+                ],
+                [
+                    43,
+                    218
+                ],
+                [
+                    218,
+                    42
+                ],
+                [
+                    218,
+                    218
+                ]
+            ],
+            "id": 218,
+            "isRecipe": false,
+            "name": "item_ward_dispenser",
+            "text": "Observer and Sentry Wards"
+        },
+        {
+            "components": [
+            ],
+            "id": 42,
+            "isRecipe": false,
+            "name": "item_ward_observer",
+            "text": "Observer Ward"
+        },
+        {
+            "components": [
+            ],
+            "id": 43,
+            "isRecipe": false,
+            "name": "item_ward_sentry",
+            "text": "Sentry Ward"
+        },
+        {
+            "components": [
+            ],
+            "id": 244,
+            "isRecipe": false,
+            "name": "item_wind_lace",
+            "text": "Wind Lace"
+        },
+        {
+            "components": [
+                [
+                    20,
+                    14,
+                    74
+                ]
+            ],
+            "id": 75,
+            "isRecipe": false,
+            "name": "item_wraith_band",
+            "text": "Wraith Band"
+        },
+        {
+            "components": [
+                [
+                    22,
+                    18,
+                    169
+                ]
+            ],
+            "id": 170,
+            "isRecipe": false,
+            "name": "item_yasha",
+            "text": "Yasha"
+        }
+    ]
+}

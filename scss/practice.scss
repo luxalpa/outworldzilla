@@ -1,0 +1,262 @@
+@import 'common';
+
+.form {
+  //margin-left: auto;
+  //margin-right: auto;
+  text-align: center;
+  padding: 9px;
+  font-size: 13px;
+  @extend .box;
+  @extend .medium-dark;
+
+  &.small {
+    width: 300px;
+  }
+  &.medium {
+    width: 500px;
+  }
+  &.big {
+    width: 700px;
+  }
+}
+
+.highlighted {
+  $highscore-color: #174943;
+  background-color: $highscore-color !important;
+  td {
+    border-color: $highscore-color;
+  }
+}
+
+.mouse-box {
+  @extend .inset-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  box-sizing: border-box;
+  height: 560px;
+  position: relative;
+  //transition: 1s;
+  max-height: 800px;
+
+  &.inactive {
+    background-color: $element-color;
+  }
+
+  .target {
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 30px;
+    left: 10px;
+    border: 6px solid #67dda4;
+    border-radius: 100px;
+  }
+}
+
+.ability-trainer {
+  height: 500px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .answer {
+    margin-top: 20px;
+  }
+
+  .qtext {
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    border-left: 1px solid $bordercolorInner;
+  }
+
+  .qicon {
+    float: left;
+  }
+
+  .question {
+    @extend .box;
+  }
+
+  .mana {
+    color: $manacost-color;
+  }
+
+  .cd {
+    color: $cooldown-color;
+  }
+
+  .wrong {
+    transition: 250ms ease-in-out;
+    text-decoration: line-through;
+    background-color: #6d0000;
+    cursor: default;
+    pointer-events: none;
+
+  }
+}
+
+.item-trainer {
+  height: 500px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.item-list {
+  @extend .box;
+  @extend .light;
+  display: inline-block;
+  vertical-align: top;
+  & > .item {
+    margin-right: 3px;
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
+
+.floating-item {
+  @extend .item;
+  position: absolute;
+  transition: 190ms ease-out;
+}
+
+.points {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.invoke-trainer {
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.invoke-list {
+  @extend .box;
+  display: inline-block;
+  position: relative;
+  background-color: $element-color;
+
+  & > div {
+    overflow: hidden;
+    width: 64 + 2 * 6px;
+    height: (64 + 6) * 3 + 6px;
+    position: relative;
+  }
+
+  &:after {
+    content: "";
+    width: 100px;
+    height: 130px;
+    background-image: linear-gradient(rgba($medium-background, 1) 10%, rgba($medium-background, 0.8) 50%, rgba($medium-background, 0) 100%);
+    position: absolute;
+    top: -10px;
+    left: -10px;
+  }
+}
+
+.floating-skill {
+  box-shadow: $boxshadow;
+  position: absolute;
+  left: 6px;
+  transition: 400ms ease;
+}
+
+.floating-buff {
+  position: absolute;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  background-size: 20px 20px;
+  border-radius: 100px;
+  box-shadow: $boxshadow, 0px 0px 2px $bordercolorInner;
+  border: 2px solid #1e1e1e;
+  transition: 200ms ease-in-out;
+}
+
+.invoke-timer {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.invoke-buttons {
+  @extend .box;
+  margin-top: 10px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: $element-color;
+  padding: 6px;
+  a {
+    box-shadow: $boxshadow;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 6px;
+    width: 48px;
+    height: 48px;
+    background-size: 48px 48px;
+    cursor: pointer;
+    text-align: left;
+    padding: 1px 3px;
+    text-shadow: 2px 2px 1px black;
+    font-weight: bold;
+    font-size: 11px;
+    color: white;
+    overflow: hidden;
+
+    box-sizing: border-box;
+    position: relative;
+    z-index: 0;
+    &:last-child {
+      margin-right: 0;
+    }
+
+    &:after {
+      z-index: -1;
+      content: "";
+      display: block;
+      width: 40px;
+      height: 40px;
+      border-radius: 18px;
+      top: -20px;
+      left: -20px;
+      position: absolute;
+      background-color: black;
+      opacity: 0.5;
+    }
+
+    &:before {
+      z-index: -1;
+      content: "";
+      display: block;
+      width: 48px;
+      height: 48px;
+      top: 0;
+      left: 0;
+      position: absolute;
+      background-image: linear-gradient(155deg, rgba(#fff, 1), rgba(#fff, 0.1) );
+      opacity: 0;
+      transition: 100ms ease-out;
+    }
+
+    &:hover {
+      &:before {
+        opacity: 0.8;
+      }
+    }
+  }
+}

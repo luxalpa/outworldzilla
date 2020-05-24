@@ -1,0 +1,142 @@
+@import 'common';
+
+.tabs-right {
+  text-align: right;
+  position: absolute;
+  right: 25px;
+}
+
+.tabs-middle {
+  text-align: center;
+  display: inline-block;
+
+  & > .tabbox > .tabbar {
+    margin-left: 0;
+  }
+}
+
+.tabbox-content {
+  @extend .box;
+  text-align: left;
+  & > div {
+    position: relative;
+    overflow: hidden;
+    transition: 250ms;
+  }
+}
+
+.tabbar.light {
+  background-color: transparent;
+  a {
+    background-color: $normal-background;
+  }
+  li:not(.selected):hover a {
+    //animation: $hover-animation;
+    background-color: $hover-bright;
+  }
+}
+
+.tabbar.dark {
+  background-color: transparent;
+  a {
+    background-color: $dark-background;
+  }
+  li:not(.selected):hover a {
+    background-color: $hover-bright;
+  }
+}
+
+.short-tabbar a {
+  cursor: pointer !important;
+  &:hover {
+    color: white;
+  }
+}
+
+.centered > .tabbox > .tabbar {
+  margin-left: 0;
+}
+
+.tabbar {
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  margin-left: 15px;
+  white-space: nowrap;
+
+  li {
+    display: inline-block;
+    position: relative;
+    margin-left: 5px;
+    text-shadow: 2px 2px 5px black;
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    &.selected {
+
+      cursor: default;
+
+      a {
+        top: -2px;
+        padding-bottom: 5px;
+        margin-bottom: -3px;
+        z-index: 2;
+        vertical-align: top;
+        cursor: default;
+
+        &::before {
+          display: none;
+        }
+      }
+
+      &::before {
+        position: absolute;
+        content: "";
+        top: -3px;
+        left: -1px;
+        bottom: -2px;
+        right: -1px;
+        border: 1px solid $bordercolorOuter;
+        box-shadow: $boxshadow;
+        border-bottom-width: 0;
+        display: inline-block;
+        z-index: 0;
+      }
+    }
+
+    &:not(.selected):hover a {
+      color: $hover-text-color;
+      cursor: pointer;
+    }
+
+    a {
+      text-decoration: none;
+      font-size: 11px;
+      font-weight: bold;
+      vertical-align: top;
+
+      display: inline-block;
+      padding: 5px 10px 2px 10px;
+      border: 1px solid $bordercolorInner;
+      position: relative;
+      margin-bottom: -1px;
+      border-bottom-width: 0;
+
+      &::before {
+        position: absolute;
+        content: "";
+        top: -2px;
+        left: -2px;
+        bottom: -2px;
+        right: -2px;
+        border: 1px solid $bordercolorOuter;
+        box-shadow: $boxshadow;
+        z-index: -2;
+        border-bottom-width: 0;
+        display: inline-block;
+      }
+    }
+  }
+}

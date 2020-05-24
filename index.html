@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+    <title>Outworldzilla</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-Control" content="public">
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" href="/css/stylesheet.css?v=3" media="screen" type="text/css" charset="utf-8">
+    <link rel="shortcut icon" href="img/favicon-staff.png?v=2" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+
+    <base href="/">
+</head>
+<body>
+<div outworldzilla="outworldzilla"></div>
+<script src="/web-animations-next.min.js" async></script>
+<script src="script.js?v=5"></script>
+<script async src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+    window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+            "palette": {
+                "popup": {
+                    "background": "#edeff5",
+                    "text": "#838391"
+                },
+                "button": {
+                    "background": "#0e9595"
+                }
+            },
+            "content": {
+                "href": "http://www.outworldzilla.net/about/privacy"
+            }
+        })});
+</script>
+</body>
+</html>

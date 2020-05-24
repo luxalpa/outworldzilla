@@ -1,0 +1,91 @@
+@import 'common';
+
+@mixin fixed-width($width) {
+  min-width: $width;
+  max-width: $width;
+}
+
+.match-table {
+  @extend .box;
+  padding: 0;
+  background-color: $element-color;
+  box-sizing: content-box;
+
+  table {
+    border-collapse: collapse;
+
+
+    white-space: nowrap;
+    font-size: 13px;
+    width: 100%;
+  }
+  tr {
+    &:nth-child(odd) {
+      background-color: $table-color-odd;
+    }
+    &:nth-child(even) {
+      background-color: $table-color-even;
+    }
+  }
+  th {
+    height: 25px;
+    text-align: center;
+    border: 0 solid #192327;
+    padding: 5px 10px;
+    border-right-width: 3px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+
+    &:last-child {
+      border-right-width: 0;
+    }
+  }
+
+  td {
+    text-align: center;
+    padding: 5px 10px;
+    border: 0 solid $boxbgcolor;
+    border-right-width: 3px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+
+    &:last-child {
+      width: 100%;
+      border-right-width: 0;
+    }
+
+    &.duration {
+      @include fixed-width(70px);
+    }
+
+    &.gamemode {
+      @include fixed-width(70px);
+    }
+
+    &.starttime {
+      @include fixed-width(180px);
+    }
+
+    &.region {
+      @include fixed-width(70px);
+    }
+
+  }
+
+  .dire, .radiant {
+    padding: 8px 20px;
+    background-color: $boxbgcolor;
+    font-weight: bold;
+    font-size: 13px;
+  }
+
+  .dire {
+    color: #d81900;
+  }
+
+  .radiant {
+    color: #00ad00;
+  }
+
+
+}

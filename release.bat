@@ -1,0 +1,1 @@
+@gulp rebuild --env production

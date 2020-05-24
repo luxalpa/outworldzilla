@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="351" height="71" viewBox="0 0 351 71">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter-chain-1);
+      }
+
+      .cls-1, .cls-2 {
+        font-size: 48px;
+      }
+
+      .cls-2 {
+        fill: #ccc;
+        font-family: "KozGoPr6N-Heavy";
+      }
+    </style>
+
+    <filter id="filter-chain-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="2.571" dy="3.064" in="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="dropBlur"/>
+      <feFlood flood-opacity="0.74"/>
+      <feComposite operator="in" in2="dropBlur" result="dropShadowComp"/>
+      <feComposite in="SourceGraphic" result="shadowed"/>
+      <feImage x="14" y="14" width="316" height="36" preserveAspectRatio="none" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMzE2IiBoZWlnaHQ9IjM2Ij48bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iMTU4IiB5MT0iMzYiIHgyPSIxNTgiPgogIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzE3OTg3OCIvPgogIDxzdG9wIG9mZnNldD0iMC40NSIgc3RvcC1jb2xvcj0iIzE4YTc4NCIvPgogIDxzdG9wIG9mZnNldD0iMC41MyIgc3RvcC1jb2xvcj0iIzFjZWFhNCIvPgogIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzk1ZWJjYSIvPgo8L2xpbmVhckdyYWRpZW50Pgo8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyYWQpIi8+PC9zdmc+"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+      <feBlend in2="shadowed" result="gradientFill"/>
+    </filter>
+  </defs>
+  <text transform="translate(13 49) scale(0.9 0.91)" class="cls-1"><tspan class="cls-2">OUTWORLDZILLA</tspan></text>
+</svg>

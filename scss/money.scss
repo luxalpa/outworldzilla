@@ -1,0 +1,59 @@
+@import "common";
+
+.donor {
+  color: $highlight-text-color;
+}
+
+.donation-container {
+  @media screen and (min-width: 1154px) and (max-width: 1320px) {
+    margin-left: $menu-width + 25;
+  }
+  max-width: $layout-width + 2*30px;
+  box-sizing: border-box;
+  margin-top: 10px;
+  display: flex;
+}
+
+.donation-banner {
+  padding: 5px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  position: relative;
+  cursor: pointer;
+  width: 100%;
+
+  &:hover {
+    &:before {
+      content: "Show all";
+      position: absolute;
+      //width: 100%;
+      right: 0;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: rgba($hover-bright, 0.8);
+      text-shadow: $textshadow, 1px 1px 10px black;
+    }
+  }
+}
+
+.donation-button {
+  min-width: 80px;
+  background-color: $hover-bright;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &:hover {
+    //animation: $hover-animation;
+    background-color: #19af9c;
+    cursor: pointer;
+  }
+}
+
+.paypal-link {
+  cursor: pointer;
+}

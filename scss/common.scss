@@ -1,0 +1,44 @@
+@font-face {
+  font-family: FontAwesome;
+  font-path: '/fonts/font-awesome/fontawesome-webfont';
+  font-weight: 400;
+  font-style: normal
+}
+
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@mixin fixed-width($width) {
+  min-width: $width;
+  max-width: $width;
+}
+
+$imgpath: "../img/";
+$boxbgcolor: #202c32;
+$bordercolorInner: #0e9595;
+$bordercolorOuter: #111;
+$boxshadow: 3px 3px 6px black;
+$textshadow: 2px 2px 5px black;
+$hover-text-color: white;
+$hover-dark: #10181d;
+$text-color: #e0e0e0;
+$layout-width: 900px;
+$highlight-text-color: #00dfb7;
+$element-color: #141d21;
+$table-color-odd: $element-color;
+$table-color-even: #1c262b;
+$hover-bright: #198b77;
+$insignificant-color: #888;
+$manacost-color: #6e7adb;
+$cooldown-color: #cdcbcc;
+$dark-background: $element-color;
+$normal-background: $boxbgcolor;
+$medium-background: #18242a;
+$hover-animation: hover-anim 250ms ease-out;
+$menu-width: 150px;
